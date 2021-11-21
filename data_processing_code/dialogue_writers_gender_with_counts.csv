@@ -1,0 +1,595 @@
+,mid,imdb_id,writer_ids,writer_names,writer_gender,num_of_female_writers,total_num_of_writers,all_female_writers
+0,m0,tt0147800,"['nm0527581', 'nm0809006', 'nm0000636']","['Karen McCullah', 'Kirsten Smith', 'William Shakespeare']","['F', 'F', 'M']",2,3,False
+1,m1,tt0103594,['nm0097785'],['Rose Bosch'],['F'],1,1,True
+2,m2,tt0179626,['nm0381273'],['John Herzfeld'],['M'],0,1,False
+3,m3,tt0062622,"['nm0000040', 'nm0002009']","['Stanley Kubrick', 'Arthur C. Clarke']","['M', 'M']",0,2,False
+4,m4,tt0083511,"['nm0006854', 'nm0001353', 'nm0343419', 'nm0211823']","['Roger Spottiswoode', 'Walter Hill', 'Larry Gross', 'Steven E. de Souza']","['M', 'M', 'M', 'M']",0,4,False
+5,m5,tt0119116,"['nm0000108', 'nm0436543']","['Luc Besson', 'Robert Mark Kamen']","['M', 'M']",0,2,False
+6,m6,tt0134273,['nm0001825'],['Andrew Kevin Walker'],['M'],0,1,False
+7,m7,tt0095742,"['nm0000127', 'nm0467889', 'nm0001338', 'nm0923646', 'nm0003117']","['Wes Craven', 'William Kotzwinkle', 'Brian Helgeland', 'Jim Wheat', 'Ken Wheat']","['M', 'M', 'M', 'M', 'M']",0,5,False
+8,m8,tt0097981,"['nm0000127', 'nm0804345', 'nm0817468', 'nm0092018']","['Wes Craven', 'John Skipp', 'Craig Spector', 'Leslie Bohem']","['M', 'M', 'M', 'M']",0,4,False
+9,m9,tt0052587,"['nm0359034', 'nm0088726', 'nm0704896']","['Orville H. Hampton', 'Irving Block', 'Jack Rabin']","['M', 'M', 'M']",0,3,False
+10,m10,tt0118564,"['nm0001930', 'nm0001707']","['Russell Banks', 'Paul Schrader']","['M', 'M']",0,2,False
+11,m11,tt0118571,['nm0549256'],['Andrew W. Marlowe'],['M'],0,1,False
+12,m12,tt0083530,"['nm0277946', 'nm0419830', 'nm0718514']","['Ken Finkleman', 'Al Jean', 'Mike Reiss']","['M', 'M', 'M']",0,3,False
+13,m13,tt0080339,"['nm0000720', 'nm0001878', 'nm0958387', 'nm0058826', 'nm0150712', 'nm0354150']","['Jim Abrahams', 'David Zucker', 'Jerry Zucker', 'Hall Bartlett', 'John C. Champion', 'Arthur Hailey']","['M', 'M', 'M', 'M', 'M', 'M']",0,6,False
+14,m14,tt0094631,['nm0639328'],"[""Rockne S. O'Bannon""]",['M'],0,1,False
+15,m15,tt0090605,"['nm0000116', 'nm0318429', 'nm0001353', 'nm0639321', 'nm0795953']","['James Cameron', 'David Giler', 'Walter Hill', ""Dan O'Bannon"", 'Ronald Shusett']","['M', 'M', 'M', 'M', 'M']",0,5,False
+16,m16,tt0086879,"['nm0787323', 'nm0537004']","['Peter Shaffer', 'Zdenek Mahler']","['M', 'M']",0,2,False
+17,m17,tt0082010,['nm0000484'],['John Landis'],['M'],0,1,False
+18,m18,tt0022626,['nm0728307'],['Robert Riskin'],['M'],0,1,False
+19,m19,tt0244000,"['nm0853095', 'nm0736966']","['Roderick Taylor', 'John Rogers']","['M', 'M']",0,2,False
+20,m20,tt0144084,"['nm0254735', 'nm0366004', 'nm0877587']","['Bret Easton Ellis', 'Mary Harron', 'Guinevere Turner']","['M', 'F', 'F']",2,3,False
+21,m21,tt0218817,['nm0291442'],['Howard Franklin'],['M'],0,1,False
+22,m22,tt0118655,['nm0000196'],['Mike Myers'],['M'],0,1,False
+23,m23,tt0848228,"['nm0923736', 'nm0672015']","['Joss Whedon', 'Zak Penn']","['M', 'M']",0,2,False
+24,m24,tt0086927,"['nm0411444', 'nm0411477', 'nm0698493']","['Bob Israel', 'Neal Israel', 'Pat Proft']","['M', 'M', 'M']",0,3,False
+25,m25,tt0101393,['nm0927074'],['Gregory Widen'],['M'],0,1,False
+26,m26,tt0103759,"['nm0526259', 'nm0001206']","['Zoë Lund', 'Abel Ferrara']","['F', 'M']",1,2,False
+27,m27,tt0215545,['nm0000490'],['Spike Lee'],['M'],0,1,False
+28,m28,tt0072684,"['nm0000040', 'nm0856842']","['Stanley Kubrick', 'William Makepeace Thackeray']","['M', 'M']",0,2,False
+29,m29,tt0264395,['nm0888743'],['James Vanderbilt'],['M'],0,1,False
+30,m30,tt0319061,"['nm1180620', 'nm0041864']","['Daniel Wallace', 'John August']","['M', 'M']",0,2,False
+31,m31,tt0188453,"['nm0125358', 'nm0125336']","['Tom Butterworth', 'Jez Butterworth']","['M', 'M']",0,2,False
+32,m32,tt0462200,['nm0108132'],['Craig Brewer'],['M'],0,1,False
+33,m33,tt0096933,"['nm0093271', 'nm0507863']","['Craig Bolotin', 'Warren Lewis']","['M', 'M']",0,2,False
+34,m34,tt0083658,"['nm0266684', 'nm0672459', 'nm0001140']","['Hampton Fancher', 'David Webb Peoples', 'Philip K. Dick']","['M', 'M', 'M']",0,3,False
+35,m35,tt0124298,"['nm0446210', 'nm0933505']","['Bill Kelly', 'Hugh Wilson']","['M', 'M']",0,2,False
+36,m36,tt0090756,['nm0000186'],['David Lynch'],['M'],0,1,False
+37,m37,tt0144117,['nm0240627'],['Troy Duffy'],['M'],0,1,False
+38,m38,tt0115734,"['nm0005562', 'nm0027572']","['Owen Wilson', 'Wes Anderson']","['M', 'M']",0,2,False
+39,m39,tt0372183,"['nm0524924', 'nm0006904']","['Robert Ludlum', 'Tony Gilroy']","['M', 'M']",0,2,False
+40,m40,tt0112573,['nm0908824'],['Randall Wallace'],['M'],0,1,False
+41,m41,tt0289879,"['nm0344259', 'nm0107774']","['J. Mackye Gruber', 'Eric Bress']","['M', 'M']",0,2,False
+42,m42,tt0034583,"['nm0258493', 'nm0258525', 'nm0462321', 'nm0122417', 'nm0019706', 'nm0732452']","['Julius J. Epstein', 'Philip G. Epstein', 'Howard Koch', 'Murray Burnett', 'Joan Alison', 'Casey Robinson']","['M', 'M', 'M', 'M', 'F', 'M']",1,6,False
+43,m43,tt0162222,['nm0115310'],['William Broyles Jr.'],['M'],0,1,False
+44,m44,tt0124315,['nm0410288'],['John Irving'],['M'],0,1,False
+45,m45,tt0310910,['nm1136647'],['Doug Jung'],['M'],0,1,False
+46,m46,tt0159382,['nm0562577'],['Paul Mayersberg'],['M'],0,1,False
+47,m47,tt0069945,"['nm0000118', 'nm0639321']","['John Carpenter', ""Dan O'Bannon""]","['M', 'M']",0,2,False
+48,m48,tt0099817,"['nm0878716', 'nm0462895']","['Jonathan Tydor', 'David Koepp']","['M', 'M']",0,2,False
+49,m49,tt0165710,['nm0243463'],['Carl V. Dupré'],['M'],0,1,False
+50,m50,tt0246578,['nm0446819'],['Richard Kelly'],['M'],0,1,False
+51,m51,tt0157503,['nm0931185'],['Lona Williams'],['F'],1,1,True
+52,m52,tt0023969,"['nm0436095', 'nm0748438', 'nm0790654', 'nm0674759']","['Bert Kalmar', 'Harry Ruby', 'Arthur Sheekman', 'Nat Perrin']","['M', 'M', 'M', 'M']",0,4,False
+53,m53,tt0080678,"['nm0212246', 'nm0075015', 'nm0000186', 'nm0872375', 'nm0598744']","['Christopher De Vore', 'Eric Bergren', 'David Lynch', 'Frederick Treves', 'Ashley Montagu']","['M', 'M', 'M', 'M', 'M']",0,5,False
+54,m54,tt0097289,['nm0001402'],['Terry Jones'],['M'],0,1,False
+55,m55,tt0338013,"['nm0442109', 'nm0327273', 'nm1410028']","['Charlie Kaufman', 'Michel Gondry', 'Pierre Bismuth']","['M', 'M', 'M']",0,3,False
+56,m56,tt0106834,"['nm0730478', 'nm0001814']","['Tom Robbins', 'Gus Van Sant']","['M', 'M']",0,2,False
+57,m57,tt0119081,['nm0252155'],['Philip Eisner'],['M'],0,1,False
+58,m58,tt0120667,"['nm0004111', 'nm0289833', 'nm0498278', 'nm0456158']","['Mark Frost', 'Michael France', 'Stan Lee', 'Jack Kirby']","['M', 'M', 'M', 'M']",0,4,False
+59,m59,tt0083929,['nm0001081'],['Cameron Crowe'],['M'],0,1,False
+60,m60,tt0120669,"['nm0860219', 'nm0000416', 'nm0342617', 'nm0204000', 'nm0007182']","['Hunter S. Thompson', 'Terry Gilliam', 'Tony Grisoni', 'Tod Davies', 'Alex Cox']","['M', 'M', 'M', 'F', 'M']",1,5,False
+61,m61,tt0426459,"['nm1733317', 'nm1729303']","['Patrick Melton', 'Marcus Dunstan']","['M', 'M']",0,2,False
+62,m62,tt0083967,"['nm0075015', 'nm0212246', 'nm0443582']","['Eric Bergren', 'Christopher De Vore', 'Nicholas Kazan']","['M', 'M', 'M']",0,3,False
+63,m63,tt0021884,"['nm0049721', 'nm0791217', 'nm0916811', 'nm0287124', 'nm0267020', 'nm0770337', 'nm0282984', 'nm0751246']","['John L. Balderston', 'Mary Shelley', 'Peggy Webling', 'Garrett Fort', 'Francis Edward Faragoh', 'Richard Schayer', 'Robert Florey', 'John Russell']","['M', 'F', 'F', 'M', 'M', 'M', 'M', 'M']",2,8,False
+64,m64,tt0758746,"['nm0566699', 'nm1226735', 'nm1226737', 'nm1187126']","['Victor Miller', 'Damian Shannon', 'Mark Swift', 'Mark Wheaton']","['M', 'M', 'M', 'M']",0,4,False
+65,m65,tt0116367,"['nm0476071', 'nm0000233']","['Robert Kurtzman', 'Quentin Tarantino']","['M', 'M']",0,2,False
+66,m66,tt0119173,"['nm0018824', 'nm0878638']","['Danielle Alexandra', 'David Twohy']","['F', 'M']",1,2,False
+67,m67,tt0120685,"['nm0002041', 'nm0000386', 'nm0254645', 'nm0744429']","['Dean Devlin', 'Roland Emmerich', 'Ted Elliott', 'Terry Rossio']","['M', 'M', 'M', 'M']",0,4,False
+68,m68,tt0177789,"['nm0397232', 'nm0330565']","['David Howard', 'Robert Gordon']","['M', 'M']",0,2,False
+69,m69,tt0262432,['nm0337773'],['David Gordon Green'],['M'],0,1,False
+70,m70,tt0113161,"['nm0001465', 'nm0291082']","['Elmore Leonard', 'Scott Frank']","['M', 'M']",0,2,False
+71,m71,tt0288477,"['nm0360144', 'nm0688282']","['Mark Hanlon', 'John Pogue']","['M', 'M']",0,2,False
+72,m72,tt0162346,"['nm0167280', 'nm0959062']","['Daniel Clowes', 'Terry Zwigoff']","['M', 'M']",0,2,False
+73,m73,tt0116409,['nm0001279'],['William Goldman'],['M'],0,1,False
+74,m74,tt0097428,"['nm0000101', 'nm0000601']","['Dan Aykroyd', 'Harold Ramis']","['M', 'M']",0,2,False
+75,m75,tt0087332,"['nm0000101', 'nm0000601', 'nm0001548']","['Dan Aykroyd', 'Harold Ramis', 'Rick Moranis']","['M', 'M', 'M']",0,3,False
+76,m76,tt0172495,"['nm0291905', 'nm0517589', 'nm0629933']","['David Franzoni', 'John Logan', 'William Nicholson']","['M', 'M', 'M']",0,3,False
+77,m77,tt0061722,"['nm0932229', 'nm0377750', 'nm0916047']","['Calder Willingham', 'Buck Henry', 'Charles Webb']","['M', 'M', 'M']",0,3,False
+78,m78,tt0022958,"['nm0062139', 'nm0237033', 'nm0049462', 'nm0941138']","['Vicki Baum', 'William Absalom Drake', 'Béla Balázs', 'Edgar Allan Woolf']","['F', 'M', 'M', 'M']",1,4,False
+79,m79,tt0099703,"['nm0860292', 'nm0922799']","['Jim Thompson', 'Donald E. Westlake']","['M', 'M']",0,2,False
+80,m80,tt0120694,"['nm0384185', 'nm0000118', 'nm0002526', 'nm0338557']","['Debra Hill', 'John Carpenter', 'Robert Zappia', 'Matt Greenberg']","['F', 'M', 'M', 'M']",1,4,False
+81,m81,tt0113253,"['nm0384185', 'nm0000118', 'nm0268107']","['Debra Hill', 'John Carpenter', 'Daniel Farrands']","['F', 'M', 'M']",1,3,False
+82,m82,tt0067180,['nm0903361'],['Kurt Vonnegut Jr.'],['M'],0,1,False
+83,m83,tt0079271,['nm0001707'],['Paul Schrader'],['M'],0,1,False
+84,m84,tt0067185,['nm0383359'],['Colin Higgins'],['M'],0,1,False
+85,m85,tt0095294,"['nm0040643', 'nm0000850']","['Peter Atkins', 'Clive Barker']","['M', 'M']",0,2,False
+86,m86,tt0167190,"['nm0868219', 'nm1486009', 'nm0586005']","['Guillermo del Toro', 'Peter Briggs', 'Mike Mignola']","['M', 'M', 'M']",0,3,False
+87,m87,tt0093177,['nm0000850'],['Clive Barker'],['M'],0,1,False
+88,m88,tt0146882,"['nm0394984', 'nm0222584', 'nm0684336', 'nm0000131', 'nm0003298']","['Nick Hornby', 'D.V. DeVincentis', 'Steve Pink', 'John Cusack', 'Scott Rosenberg']","['M', 'M', 'M', 'M', 'M']",0,5,False
+89,m89,tt0091203,"['nm0927074', 'nm0069282', 'nm0272511']","['Gregory Widen', 'Peter Bellwood', 'Larry Ferguson']","['M', 'M', 'M']",0,3,False
+90,m90,tt0032599,"['nm0496468', 'nm0372942', 'nm0531269', 'nm0753452']","['Charles Lederer', 'Ben Hecht', 'Charles MacArthur', 'Morrie Ryskind']","['M', 'M', 'M', 'M']",0,4,False
+91,m91,tt0093209,['nm0000958'],['John Boorman'],['M'],0,1,False
+92,m92,tt0251736,['nm0957772'],['Rob Zombie'],['M'],0,1,False
+93,m93,tt0219822,['nm0442109'],['Charlie Kaufman'],['M'],0,1,False
+94,m94,tt0054997,"['nm0140987', 'nm0744035', 'nm0856677']","['Sidney Carroll', 'Robert Rossen', 'Walter Tevis']","['M', 'M', 'M']",0,3,False
+95,m95,tt0480249,"['nm0698873', 'nm0326040', 'nm0558577', 'nm0181019', 'nm0181020']","['Mark Protosevich', 'Akiva Goldsman', 'Richard Matheson', 'John William Corrington', 'Joyce Hooper Corrington']","['M', 'M', 'M', 'M', 'F']",1,5,False
+96,m96,tt0045917,"['nm0086701', 'nm0061510']","['Richard Blake', 'John Tucker Battle']","['M', 'M']",0,2,False
+97,m97,tt0116629,"['nm0002041', 'nm0000386']","['Dean Devlin', 'Roland Emmerich']","['M', 'M']",0,2,False
+98,m98,tt0097576,"['nm0090151', 'nm0000184', 'nm0583675', 'nm0442241']","['Jeffrey Boam', 'George Lucas', 'Menno Meyjes', 'Philip Kaufman']","['M', 'M', 'M', 'M']",0,4,False
+99,m99,tt0087469,"['nm0404754', 'nm0441718', 'nm0000184']","['Willard Huyck', 'Gloria Katz', 'George Lucas']","['M', 'F', 'M']",1,3,False
+100,m100,tt0093260,"['nm0698734', 'nm0090151']","['Chip Proser', 'Jeffrey Boam']","['M', 'M']",0,2,False
+101,m101,tt0140352,"['nm0107493', 'nm0744839', 'nm0000520']","['Marie Brenner', 'Eric Roth', 'Michael Mann']","['F', 'M', 'M']",1,3,False
+102,m102,tt0138524,"['nm0709070', 'nm0832043', 'nm0738908', 'nm0001053', 'nm0001054']","['Robert Ramsey', 'Matthew Stone', 'John Romano', 'Ethan Coen', 'Joel Coen']","['M', 'M', 'M', 'M', 'M']",0,5,False
+103,m103,tt0025316,"['nm0728307', 'nm0011343']","['Robert Riskin', 'Samuel Hopkins Adams']","['M', 'M']",0,2,False
+104,m104,tt0102138,"['nm0308426', 'nm0550285', 'nm0000231', 'nm0804466']","['Jim Garrison', 'Jim Marrs', 'Oliver Stone', 'Zachary Sklar']","['M', 'M', 'M', 'M']",0,4,False
+105,m105,tt0119396,"['nm0000233', 'nm0001465']","['Quentin Tarantino', 'Elmore Leonard']","['M', 'M']",0,2,False
+106,m106,tt0099871,['nm0748022'],['Bruce Joel Rubin'],['M'],0,1,False
+107,m107,tt0211443,"['nm0566699', 'nm0267805']","['Victor Miller', 'Todd Farmer']","['M', 'M']",0,2,False
+108,m108,tt0073195,"['nm0001940', 'nm0331956']","['Peter Benchley', 'Carl Gottlieb']","['M', 'M']",0,2,False
+109,m109,tt0467406,['nm1959505'],['Diablo Cody'],['F'],1,1,True
+110,m110,tt0107302,"['nm0506629', 'nm0582481']","['Stephen Levy', 'Tim Metcalfe']","['M', 'M']",0,2,False
+111,m111,tt0113540,"['nm0005101', 'nm0164187']","['Harmony Korine', 'Larry Clark']","['M', 'M']",0,2,False
+112,m112,tt0104627,['nm0592436'],['Brad Mirman'],['M'],0,1,False
+113,m113,tt0085811,['nm0792589'],['Stanford Sherman'],['M'],0,1,False
+114,m114,tt0110413,['nm0000108'],['Luc Besson'],['M'],0,1,False
+115,m115,tt0159519,['nm0791551'],['Nina Shengold'],['F'],1,1,True
+116,m116,tt0113627,"['nm3840714', 'nm0001214']","[""John O'Brien"", 'Mike Figgis']","['M', 'M']",0,2,False
+117,m117,tt0250494,"['nm0113005', 'nm0527581', 'nm0809006']","['Amanda Brown', 'Karen McCullah', 'Kirsten Smith']","['F', 'F', 'F']",3,3,True
+118,m118,tt0089469,['nm0387132'],['William Hjortsberg'],['M'],0,1,False
+119,m119,tt0264796,['nm0029125'],['Mark Andrus'],['M'],0,1,False
+120,m120,tt0289992,['nm1017488'],['Charles Randolph'],['M'],0,1,False
+121,m121,tt0185431,"['nm0379056', 'nm0001191', 'nm0109359']","['Tim Herlihy', 'Adam Sandler', 'Steven Brill']","['M', 'M', 'M']",0,3,False
+122,m122,tt0074812,"['nm0329051', 'nm0634368', 'nm0425138']","['David Zelag Goodman', 'William F. Nolan', 'George Clayton Johnson']","['M', 'M', 'M']",0,3,False
+123,m123,tt0116922,"['nm0000186', 'nm0317510']","['David Lynch', 'Barry Gifford']","['M', 'M']",0,2,False
+124,m124,tt0029162,"['nm0728307', 'nm0385264', 'nm0118227']","['Robert Riskin', 'James Hilton', 'Sidney Buchman']","['M', 'M', 'M']",0,3,False
+125,m125,tt0119654,"['nm0192384', 'nm0004412']","['Lowell Cunningham', 'Ed Solomon']","['M', 'M']",0,2,False
+126,m126,tt0181689,"['nm0001140', 'nm0291082', 'nm0169509']","['Philip K. Dick', 'Scott Frank', 'Jon Cohen']","['M', 'M', 'M']",0,3,False
+127,m127,tt0227005,['nm0269463'],['Jon Favreau'],['M'],0,1,False
+128,m128,tt0104797,"['nm0355077', 'nm0944318', 'nm0674135', 'nm0000490']","['Alex Haley', 'Malcolm X', 'Arnold Perl', 'Spike Lee']","['M', 'M', 'M', 'M']",0,4,False
+129,m129,tt0328107,"['nm0704031', 'nm0001338']","['A.J. Quinnell', 'Brian Helgeland']","['M', 'M']",0,2,False
+130,m130,tt0048356,['nm0154665'],['Paddy Chayefsky'],['M'],0,1,False
+131,m131,tt0066026,"['nm0393645', 'nm0488057']","['Richard Hooker', 'Ring Lardner Jr.']","['M', 'M']",0,2,False
+132,m132,tt0033891,"['nm0175028', 'nm0696190', 'nm0728307', 'nm0175333']","['Richard Connell', 'Robert Presnell Sr.', 'Robert Riskin', 'Myles Connolly']","['M', 'M', 'M', 'M']",0,4,False
+133,m133,tt0119664,['nm0271098'],['Randy Feldman'],['M'],0,1,False
+134,m134,tt0017136,"['nm0902376', 'nm0000485']","['Thea von Harbou', 'Fritz Lang']","['F', 'M']",1,2,False
+135,m136,tt0102460,"['nm0536893', 'nm0443582']","['Michael Mahern', 'Nicholas Kazan']","['M', 'M']",0,2,False
+136,m137,tt0166276,"['nm0085718', 'nm0358334']","['Kaja Blackley', 'Sam Hamm']","['M', 'M']",0,2,False
+137,m138,tt0177023,['nm0681914'],['Rex Pickett'],['M'],0,1,False
+138,m139,tt0031679,"['nm0118227', 'nm0287931', 'nm0175333']","['Sidney Buchman', 'Lewis R. Foster', 'Myles Connolly']","['M', 'M', 'M']",0,3,False
+139,m140,tt0027996,"['nm0728307', 'nm0445502']","['Robert Riskin', 'Clarence Budington Kelland']","['M', 'M']",0,2,False
+140,m141,tt0140397,['nm0001410'],['Lawrence Kasdan'],['M'],0,1,False
+141,m142,tt0120616,"['nm0814085', 'nm0285126', 'nm0418883', 'nm0049721', 'nm0701233', 'nm0770337']","['Stephen Sommers', 'Lloyd Fonvielle', 'Kevin Jarre', 'John L. Balderston', 'Nina Wilcox Putnam', 'Richard Schayer']","['M', 'M', 'M', 'M', 'F', 'M']",1,6,False
+142,m143,tt0132347,"['nm0193854', 'nm0120918']","['Neil Cuthbert', 'Bob Burden']","['M', 'M']",0,2,False
+143,m144,tt0113932,"['nm0099755', 'nm0028196', 'nm0759166', 'nm0817389', 'nm0578771']","['Michael Bourchier', 'Mario Andreacchio', 'Mark Saltzman', 'Steve J. Spears', 'Ivan Menchell']","['M', 'M', 'M', 'M', 'M']",0,5,False
+144,m145,tt0195945,"['nm0001084', 'nm0690770']","['Ice Cube', 'DJ Pooh']","['M', 'M']",0,2,False
+145,m146,tt0113972,['nm0242059'],['Patrick Sheane Duncan'],['M'],0,1,False
+146,m147,tt0048424,"['nm0344181', 'nm0012938', 'nm0001452']","['Davis Grubb', 'James Agee', 'Charles Laughton']","['M', 'M', 'M']",0,3,False
+147,m148,tt0087800,['nm0000127'],['Wes Craven'],['M'],0,1,False
+148,m149,tt0031725,"['nm0102818', 'nm0000697', 'nm0281556', 'nm0501872']","['Charles Brackett', 'Billy Wilder', 'Walter Reisch', 'Melchior Lengyel']","['M', 'M', 'M', 'M']",0,4,False
+149,m150,tt0113987,"['nm0729151', 'nm0929349', 'nm0000231']","['Stephen J. Rivele', 'Christopher Wilkinson', 'Oliver Stone']","['M', 'M', 'M']",0,3,False
+150,m151,tt0477348,"['nm0001054', 'nm0001053', 'nm0565092']","['Joel Coen', 'Ethan Coen', 'Cormac McCarthy']","['M', 'M', 'M']",0,3,False
+151,m152,tt0171580,"['nm0724167', 'nm0280963']","['John C. Richards', 'James Flamberg']","['M', 'M']",0,2,False
+152,m153,tt0190590,"['nm0392955', 'nm0001053', 'nm0001054']","['Homer', 'Ethan Coen', 'Joel Coen']","['M', 'M', 'M']",0,3,False
+153,m154,tt0084434,['nm0829343'],['Douglas Day Stewart'],['M'],0,1,False
+154,m155,tt0258000,['nm0462895'],['David Koepp'],['M'],0,1,False
+155,m156,tt0114084,['nm0887708'],['Melvin Van Peebles'],['M'],0,1,False
+156,m157,tt0187393,['nm0734441'],['Robert Rodat'],['M'],0,1,False
+157,m158,tt0098084,['nm0000175'],['Stephen King'],['M'],0,1,False
+158,m159,tt0325980,"['nm0254645', 'nm0744429', 'nm0064181', 'nm0938684']","['Ted Elliott', 'Terry Rossio', 'Stuart Beattie', 'Jay Wolpert']","['M', 'M', 'M', 'M']",0,4,False
+159,m160,tt0200365,['nm0611555'],['Robin Mukherjee'],['M'],0,1,False
+160,m161,tt0022268,"['nm0151310', 'nm0161428', 'nm0728307', 'nm0842485']","['Harry Chandlee', 'Douglas W. Churchill', 'Robert Riskin', 'Jo Swerling']","['M', 'M', 'M', 'M']",0,4,False
+161,m162,tt0120789,['nm0002657'],['Gary Ross'],['M'],0,1,False
+162,m163,tt0272338,['nm0000759'],['Paul Thomas Anderson'],['M'],0,1,False
+163,m164,tt0180073,['nm0942354'],['Doug Wright'],['M'],0,1,False
+164,m165,tt0120801,"['nm0517589', 'nm0186193', 'nm0502072']","['John Logan', 'Richard Ben Cramer', 'Thomas Lennon']","['M', 'M', 'M']",0,3,False
+165,m166,tt0081398,"['nm0483766', 'nm0141734', 'nm0678014', 'nm0001707', 'nm0552731']","['Jake LaMotta', 'Joseph Carter', 'Peter Savage', 'Paul Schrader', 'Mardik Martin']","['M', 'M', 'M', 'M', 'M']",0,5,False
+166,m167,tt0047396,"['nm0371088', 'nm0941280']","['John Michael Hayes', 'Cornell Woolrich']","['M', 'M']",0,2,False
+167,m168,tt0048545,"['nm0827856', 'nm0795730', 'nm0712947']","['Stewart Stern', 'Irving Shulman', 'Nicholas Ray']","['M', 'M', 'M']",0,3,False
+168,m169,tt0184858,['nm0472567'],['Ehren Kruger'],['M'],0,1,False
+169,m170,tt0105236,"['nm0000233', 'nm0000812']","['Quentin Tarantino', 'Roger Avary']","['M', 'M']",0,2,False
+170,m171,tt0041827,"['nm0537784', 'nm0124947', 'nm0896830']","['Daniel Mainwaring', 'Hugo Butler', 'Peter Viertel']","['M', 'M', 'M']",0,3,False
+171,m172,tt0257106,"['nm0915465', 'nm0005541', 'nm0424688', 'nm0064556', 'nm0294997', 'nm0783536', 'nm1010379', 'nm0333240', 'nm0689844', 'nm0811360', 'nm0915460']","['Shawn Wayans', 'Marlon Wayans', 'Buddy Johnson', 'Phil Beauman', 'Jason Friedberg', 'Aaron Seltzer', 'Alyson Fouse', 'Greg Grabianski', 'Dave Polsky', 'Michael Anthony Snowden', 'Craig Wayans']","['M', 'M', 'M', 'M', 'M', 'M', 'F', 'M', 'M', 'M', 'M']",1,11,False
+172,m173,tt0111127,['nm0000691'],['John Waters'],['M'],0,1,False
+173,m174,tt0036341,"['nm0641885', 'nm0090840']","[""Charles O'Neal"", 'DeWitt Bodeen']","['M', 'M']",0,2,False
+174,m175,tt0098724,['nm0001752'],['Steven Soderbergh'],['M'],0,1,False
+175,m176,tt0073705,['nm0000343'],['David Cronenberg'],['M'],0,1,False
+176,m177,tt0083067,"['nm0639782', 'nm0788940']","[""Richard O'Brien"", 'Jim Sharman']","['M', 'M']",0,2,False
+177,m178,tt0375063,"['nm0681914', 'nm0668247', 'nm0852591']","['Rex Pickett', 'Alexander Payne', 'Jim Taylor']","['M', 'M', 'M']",0,3,False
+178,m179,tt0286106,['nm0796117'],['M. Night Shyamalan'],['M'],0,1,False
+179,m180,tt0090022,"['nm0001410', 'nm0440461']","['Lawrence Kasdan', 'Mark Kasdan']","['M', 'M']",0,2,False
+180,m181,tt1626229,['nm0497281'],['Frazer Lee'],['M'],0,1,False
+181,m182,tt0167404,['nm0796117'],['M. Night Shyamalan'],['M'],0,1,False
+182,m183,tt0301848,"['nm1181226', 'nm1100142']","['Stephen Ronald Francis', 'Gus Silber']","['M', 'M']",0,2,False
+183,m184,tt0439815,['nm0348181'],['James Gunn'],['M'],0,1,False
+184,m185,tt0076729,"['nm0624102', 'nm0506597', 'nm0057157', 'nm0796124', 'nm0541629']","['Hal Needham', 'Robert L. Levy', 'James Lee Barrett', 'Charles Shyer', 'Alan Mandel']","['M', 'M', 'M', 'M', 'M']",0,5,False
+185,m186,tt0475394,['nm0138620'],['Joe Carnahan'],['M'],0,1,False
+186,m187,tt0307479,"['nm0501015', 'nm0001752']","['Stanislaw Lem', 'Steven Soderbergh']","['M', 'M']",0,2,False
+187,m188,tt0094008,"['nm0291442', 'nm0045301', 'nm0783544']","['Howard Franklin', 'Danilo Bach', 'David Seltzer']","['M', 'M', 'M']",0,3,False
+188,m189,tt0145487,"['nm0498278', 'nm0228492', 'nm0462895']","['Stan Lee', 'Steve Ditko', 'David Koepp']","['M', 'M', 'M']",0,3,False
+189,m190,tt0046359,"['nm0000697', 'nm0089637', 'nm0079654', 'nm0874522']","['Billy Wilder', 'Edwin Blum', 'Donald Bevan', 'Edmund Trzcinski']","['M', 'M', 'M', 'M']",0,4,False
+190,m191,tt0111280,"['nm0734472', 'nm0075834', 'nm0601822', 'nm0103804']","['Gene Roddenberry', 'Rick Berman', 'Ronald D. Moore', 'Brannon Braga']","['M', 'M', 'M', 'M']",0,4,False
+191,m192,tt0088170,"['nm0734472', 'nm0071790']","['Gene Roddenberry', 'Harve Bennett']","['M', 'M']",0,2,False
+192,m193,tt0084726,"['nm0734472', 'nm0071790', 'nm0816348', 'nm0583292', 'nm0670268']","['Gene Roddenberry', 'Harve Bennett', 'Jack B. Sowards', 'Nicholas Meyer', 'Samuel A. Peeples']","['M', 'M', 'M', 'M', 'M']",0,5,False
+193,m194,tt0092007,"['nm0734472', 'nm0000559', 'nm0071790', 'nm0576228', 'nm0471298', 'nm0583292']","['Gene Roddenberry', 'Leonard Nimoy', 'Harve Bennett', 'Steve Meerson', 'Peter Krikes', 'Nicholas Meyer']","['M', 'M', 'M', 'M', 'M', 'M']",0,6,False
+194,m195,tt0120844,"['nm0734472', 'nm0075834', 'nm0683522']","['Gene Roddenberry', 'Rick Berman', 'Michael Piller']","['M', 'M', 'M']",0,3,False
+195,m196,tt0117731,"['nm0734472', 'nm0075834', 'nm0103804', 'nm0601822']","['Gene Roddenberry', 'Rick Berman', 'Brannon Braga', 'Ronald D. Moore']","['M', 'M', 'M', 'M']",0,4,False
+196,m197,tt0102975,"['nm0734472', 'nm0000559', 'nm0465199', 'nm0742797', 'nm0583292', 'nm0282364']","['Gene Roddenberry', 'Leonard Nimoy', 'Lawrence Konner', 'Mark Rosenthal', 'Nicholas Meyer', 'Denny Martin Flinn']","['M', 'M', 'M', 'M', 'M', 'M']",0,6,False
+197,m198,tt0253754,"['nm0734472', 'nm0517589', 'nm0075834', 'nm0000653']","['Gene Roddenberry', 'John Logan', 'Rick Berman', 'Brent Spiner']","['M', 'M', 'M', 'M']",0,4,False
+198,m199,tt0088172,"['nm0262595', 'nm0317279', 'nm0718466']","['Bruce A. Evans', 'Raynold Gideon', 'Dean Riesner']","['M', 'M', 'M']",0,3,False
+199,m200,tt0114558,"['nm0000116', 'nm0168379']","['James Cameron', 'Jay Cocks']","['M', 'M']",0,2,False
+200,m201,tt0324127,"['nm0672015', 'nm0712753']","['Zak Penn', 'Billy Ray']","['M', 'M']",0,2,False
+201,m202,tt0117802,['nm0269463'],['Jon Favreau'],['M'],0,1,False
+202,m203,tt0068646,"['nm0701374', 'nm0000338']","['Mario Puzo', 'Francis Ford Coppola']","['M', 'M']",0,2,False
+203,m204,tt0134119,"['nm0383604', 'nm0005237']","['Patricia Highsmith', 'Anthony Minghella']","['F', 'M']",1,2,False
+204,m205,tt0075314,['nm0001707'],['Paul Schrader'],['M'],0,1,False
+205,m206,tt0117500,"['nm0918711', 'nm0177018', 'nm0743119']","['David Weisberg', 'Douglas Cook', 'Mark Rosner']","['M', 'M', 'M']",0,3,False
+206,m207,tt0268995,['nm0007136'],['Michael Sloane'],['M'],0,1,False
+207,m208,tt0056869,"['nm0238898', 'nm0402805']","['Daphne Du Maurier', 'Evan Hunter']","['F', 'M']",1,2,False
+208,m209,tt0037549,"['nm0829044', 'nm0531878', 'nm0507932']","['Robert Louis Stevenson', 'Philip MacDonald', 'Val Lewton']","['M', 'M', 'M']",0,3,False
+209,m210,tt0132910,"['nm0639335', 'nm0423715']","[""James O'Barr"", 'Chip Johannessen']","['M', 'M']",0,2,False
+210,m211,tt0043456,"['nm0636002', 'nm0060915']","['Edmund H. North', 'Harry Bates']","['M', 'M']",0,2,False
+211,m212,tt0093437,"['nm0278969', 'nm0421894', 'nm0090151']","['Jan Fischer', 'James Jeremias', 'Jeffrey Boam']","['F', 'M', 'M']",1,3,False
+212,m213,tt0084787,"['nm0484111', 'nm0132168']","['Bill Lancaster', 'John W. Campbell Jr.']","['M', 'M']",0,2,False
+213,m214,tt0268695,"['nm0920229', 'nm0241949', 'nm0517589']","['H.G. Wells', 'David Duncan', 'John Logan']","['M', 'M', 'M']",0,3,False
+214,m215,tt0366627,"['nm1789514', 'nm0733692', 'nm1127653']","['Tom Bleecker', 'Marc Rocco', 'Massy Tadjedin']","['M', 'M', 'F']",1,3,False
+215,m216,tt0103074,['nm0451884'],['Callie Khouri'],['F'],1,1,True
+216,m217,tt0129387,"['nm0214036', 'nm0833828', 'nm0268380', 'nm0125803']","['Ed Decter', 'John J. Strauss', 'Peter Farrelly', 'Bobby Farrelly']","['M', 'M', 'M', 'M']",0,4,False
+217,m218,tt0146309,"['nm0783100', 'nm0561943', 'nm0954546']","['David Self', 'Ernest R. May', 'Philip D. Zelikow']","['M', 'M', 'M']",0,3,False
+218,m219,tt0105585,['nm0299301'],['John Fusco'],['M'],0,1,False
+219,m220,tt0092099,"['nm0143596', 'nm0258390', 'nm1274594', 'nm0803730']","['Jim Cash', 'Jack Epps Jr.', 'Ehud Yonay', 'Warren Skaaren']","['M', 'M', 'M', 'M']",0,4,False
+220,m221,tt0100802,"['nm0001140', 'nm0795953', 'nm0639321', 'nm0693956', 'nm0325778']","['Philip K. Dick', 'Ronald Shusett', ""Dan O'Bannon"", 'Jon Povill', 'Gary Goldman']","['M', 'M', 'M', 'M', 'M']",0,5,False
+221,m222,tt0100814,"['nm0934093', 'nm0534681', 'nm0881038']","['S.S. Wilson', 'Brent Maddock', 'Ron Underwood']","['M', 'M', 'M']",0,3,False
+222,m223,tt0098524,['nm0834338'],['Wesley Strick'],['M'],0,1,False
+223,m224,tt0105665,"['nm0000186', 'nm0257306', 'nm0004111']","['David Lynch', 'Robert Engels', 'Mark Frost']","['M', 'M', 'M']",0,3,False
+224,m225,tt0084855,"['nm0715312', 'nm0000519', 'nm0696319']","['Barry Reed', 'David Mamet', 'Jay Presson Allen']","['M', 'M', 'M']",0,3,False
+225,m226,tt0046534,"['nm0920229', 'nm0528530']","['H.G. Wells', 'Barré Lyndon']","['M', 'M']",0,2,False
+226,m227,tt0111686,['nm0000127'],['Wes Craven'],['M'],0,1,False
+227,m228,tt0118158,"['nm0317335', 'nm0840307', 'nm0733149']","['Charles Gieg Jr.', 'Felix Sutton', 'Todd Robinson']","['M', 'M', 'M']",0,3,False
+228,m229,tt0100935,"['nm0317510', 'nm0000186']","['Barry Gifford', 'David Lynch']","['M', 'M']",0,2,False
+229,m230,tt0185014,"['nm0149290', 'nm0460141']","['Michael Chabon', 'Steve Kloves']","['M', 'M']",0,2,False
+230,m231,tt0361127,"['nm1350319', 'nm0975026']","['Steven Fechter', 'Nicole Kassell']","['M', 'F', 'M']",1,3,False
+231,m232,tt0096754,['nm0000116'],['James Cameron'],['M'],0,1,False
+232,m233,tt0053619,"['nm0000774', 'nm0059026', 'nm0346096']","['Michelangelo Antonioni', 'Elio Bartolini', 'Tonino Guerra']","['M', 'M', 'M']",0,3,False
+233,m234,tt0088683,['nm0682196'],['John Pielmeier'],['M'],0,1,False
+234,m235,tt0058182,['nm0654079'],['Alun Owen'],['M'],0,1,False
+235,m236,tt0078748,"['nm0639321', 'nm0795953']","[""Dan O'Bannon"", 'Ronald Shusett']","['M', 'M']",0,2,False
+236,m238,tt0042192,"['nm0000581', 'nm0650581']","['Joseph L. Mankiewicz', 'Mary Orr']","['M', 'F']",1,2,False
+237,m239,tt0074119,"['nm0077012', 'nm0940124', 'nm0001279']","['Carl Bernstein', 'Bob Woodward', 'William Goldman']","['M', 'M', 'M']",0,3,False
+238,m240,tt0163651,['nm0381221'],['Adam Herz'],['M'],0,1,False
+239,m241,tt0118604,"['nm0000484', 'nm0122899', 'nm0827868', 'nm0909026']","['John Landis', 'Tim Burns', 'Tom Stern', 'Anthony Waller']","['M', 'M', 'M', 'M']",0,4,False
+240,m242,tt0118617,"['nm0310319', 'nm0333949', 'nm0879318', 'nm0925276', 'nm0875740']","['Susan Gauthier', 'Bruce Graham', 'Bob Tzudiker', 'Noni White', 'Eric Tuchman']","['F', 'M', 'M', 'F', 'M']",2,5,False
+241,m243,tt0075686,"['nm0000095', 'nm0108613']","['Woody Allen', 'Marshall Brickman']","['M', 'M']",0,2,False
+242,m244,tt0254099,"['nm0000492', 'nm0001086']","['Jennifer Jason Leigh', 'Alan Cumming']","['F', 'M']",1,2,False
+243,m245,tt0120587,"['nm0017305', 'nm0919363', 'nm0919369']","['Todd Alcott', 'Chris Weitz', 'Paul Weitz']","['M', 'M', 'M']",0,3,False
+244,m246,tt0053604,"['nm0000697', 'nm0224634']","['Billy Wilder', 'I.A.L. Diamond']","['M', 'M']",0,2,False
+245,m247,tt0078788,"['nm0587518', 'nm0000338', 'nm0380282', 'nm0175676']","['John Milius', 'Francis Ford Coppola', 'Michael Herr', 'Joseph Conrad']","['M', 'M', 'M', 'M']",0,4,False
+246,m248,tt0106303,['nm0482780'],['Ross LaManna'],['M'],0,1,False
+247,m249,tt0119822,"['nm0029125', 'nm0000985']","['Mark Andrus', 'James L. Brooks']","['M', 'M']",0,2,False
+248,m250,tt0112401,"['nm0905152', 'nm0905154', 'nm0001338']","['Lilly Wachowski', 'Lana Wachowski', 'Brian Helgeland']","['F', 'F', 'M']",2,3,False
+249,m251,tt0348505,"['nm0569862', 'nm0544999', 'nm1877239']","['Patrick McGrath', 'Patrick Marber', 'Chrysanthy Balis']","['M', 'M', 'M']",0,3,False
+250,m252,tt0281358,"['nm0817023', 'nm0418321']","['Nicholas Sparks', 'Karen Janszen']","['M', 'F', 'M']",1,3,False
+251,m253,tt0088763,"['nm0000709', 'nm0301826']","['Robert Zemeckis', 'Bob Gale']","['M', 'M']",0,2,False
+252,m254,tt0069762,['nm0000517'],['Terrence Malick'],['M'],0,1,False
+253,m255,tt0086856,['nm0711996'],['Earl Mac Rauch'],['M'],0,1,False
+254,m256,tt0101410,"['nm0001054', 'nm0001053']","['Joel Coen', 'Ethan Coen']","['M', 'M']",0,2,False
+255,m257,tt0103772,['nm0000390'],['Joe Eszterhas'],['M'],0,1,False
+256,m258,tt0115632,"['nm0538107', 'nm0100765', 'nm0773603', 'nm1035537']","['Lech Majewski', 'John Bowe', 'Julian Schnabel', 'Michael Holman']","['M', 'M', 'M', 'M']",0,4,False
+257,m259,tt0103776,"['nm0004170', 'nm0914058', 'nm0358334']","['Bob Kane', 'Daniel Waters', 'Sam Hamm']","['M', 'M', 'M']",0,3,False
+258,m260,tt0041162,"['nm0004170', 'nm0687741', 'nm0688853', 'nm0170763']","['Bob Kane', 'George H. Plympton', 'Joseph F. Poland', 'Royal K. Cole']","['M', 'M', 'M', 'M']",0,4,False
+259,m261,tt0112462,"['nm0004170', 'nm0060761', 'nm0060760', 'nm0326040']","['Bob Kane', 'Lee Batchler', 'Janet Scott Batchler', 'Akiva Goldsman']","['M', 'M', 'F', 'M']",1,4,False
+260,m262,tt0096895,"['nm0004170', 'nm0358334', 'nm0803730']","['Bob Kane', 'Sam Hamm', 'Warren Skaaren']","['M', 'M', 'M']",0,3,False
+261,m263,tt0118689,"['nm0000100', 'nm0193485', 'nm0003741']","['Rowan Atkinson', 'Richard Curtis', 'Robin Driscoll']","['M', 'M', 'M']",0,3,False
+262,m264,tt0115641,"['nm0431918', 'nm0830294', 'nm1301264']","['Mike Judge', 'Joe Stillman', 'Brian Mulroney']","['M', 'M', 'M']",0,3,False
+263,m265,tt0094721,"['nm0568313', 'nm0933733', 'nm0803730']","['Michael McDowell', 'Larry Wilson', 'Warren Skaaren']","['M', 'M', 'M']",0,3,False
+264,m266,tt0078841,"['nm0467085', 'nm0002717']","['Jerzy Kosinski', 'Robert C. Jones']","['M', 'M']",0,2,False
+265,m267,tt0120601,['nm0442109'],['Charlie Kaufman'],['M'],0,1,False
+266,m268,tt0120603,"['nm0607339', 'nm0124333', 'nm0481418', 'nm0111845']","['Toni Morrison', 'Akosua Busia', 'Richard LaGravenese', 'Adam Brooks']","['F', 'F', 'M', 'M']",2,4,False
+267,m269,tt0118715,"['nm0001053', 'nm0001054']","['Ethan Coen', 'Joel Coen']","['M', 'M']",0,2,False
+268,m271,tt0187738,"['nm0938379', 'nm0170160', 'nm0275286']","['Marv Wolfman', 'Gene Colan', 'David S. Goyer']","['M', 'M', 'M']",0,3,False
+269,m272,tt0120611,['nm0275286'],['David S. Goyer'],['M'],0,1,False
+270,m273,tt0229260,"['nm0617130', 'nm0844896', 'nm0066243', 'nm0075666']","['Daniel Myrick', 'Eduardo Sánchez', 'Dick Beebe', 'Joe Berlinger']","['M', 'M', 'M', 'M']",0,4,False
+271,m274,tt0086979,"['nm0001054', 'nm0001053']","['Joel Coen', 'Ethan Coen']","['M', 'M']",0,2,False
+272,m275,tt0118745,['nm0833298'],['Keith W. Strandberg'],['M'],0,1,False
+273,m276,tt0221027,"['nm0692051', 'nm0571346', 'nm0001024']","['Bruce Porter', 'David McKenna', 'Nick Cassavetes']","['M', 'M', 'M']",0,3,False
+274,m277,tt0058946,"['nm0758357', 'nm0690597']","['Franco Solinas', 'Gillo Pontecorvo']","['M', 'M']",0,2,False
+275,m278,tt0106453,['nm0592436'],['Brad Mirman'],['M'],0,1,False
+276,m279,tt0112579,"['nm0481418', 'nm0909077']","['Richard LaGravenese', 'Robert James Waller']","['M', 'M']",0,2,False
+277,m280,tt0166110,"['nm0800048', 'nm0582481']","['Adam Simon', 'Tim Metcalfe']","['M', 'M']",0,2,False
+278,m281,tt0115736,"['nm0905152', 'nm0905154']","['Lilly Wachowski', 'Lana Wachowski']","['F', 'F']",2,2,True
+279,m282,tt0258463,"['nm0006904', 'nm0380819', 'nm0524924']","['Tony Gilroy', 'W. Blake Herron', 'Robert Ludlum']","['M', 'M', 'M']",0,3,False
+280,m283,tt0088846,"['nm0000416', 'nm0001779', 'nm0571650', 'nm0023395']","['Terry Gilliam', 'Tom Stoppard', 'Charles McKeown', 'Charles Alverson']","['M', 'M', 'M', 'M']",0,4,False
+281,m284,tt0163988,"['nm0175081', 'nm0001707']","['Joe Connelly', 'Paul Schrader']","['M', 'M']",0,2,False
+282,m285,tt0092699,['nm0000985'],['James L. Brooks'],['M'],0,1,False
+283,m286,tt0052655,['nm0341458'],['Charles B. Griffith'],['M'],0,1,False
+284,m287,tt0103893,['nm0923736'],['Joss Whedon'],['M'],0,1,False
+285,m288,tt0094812,['nm0005421'],['Ron Shelton'],['M'],0,1,False
+286,m289,tt0112641,"['nm0683380', 'nm0000217']","['Nicholas Pileggi', 'Martin Scorsese']","['M', 'M']",0,2,False
+287,m290,tt0327554,"['nm0004170', 'nm0714246', 'nm0104335', 'nm0274905', 'nm0736966']","['Bob Kane', 'Theresa Rebeck', 'John Brancato', 'Michael Ferris', 'John Rogers']","['M', 'F', 'M', 'M', 'M']",1,5,False
+288,m291,tt0337921,"['nm0169540', 'nm0604555']","['Larry Cohen', 'Chris Morgan']","['M', 'M']",0,2,False
+289,m292,tt0104036,['nm0001403'],['Neil Jordan'],['M'],0,1,False
+290,m293,tt0056923,"['nm0832099', 'nm0066939']","['Peter Stone', 'Marc Behm']","['M', 'M']",0,2,False
+291,m294,tt0175526,['nm0783023'],['Ken Selden'],['M'],0,1,False
+292,m295,tt0163579,"['nm0321178', 'nm0002461']","['Drew Gitlin', 'Mike Cheda']","['M', 'M']",0,2,False
+293,m296,tt0071315,"['nm0001801', 'nm0000591']","['Robert Towne', 'Roman Polanski']","['M', 'M']",0,2,False
+294,m297,tt0095765,"['nm0868153', 'nm0660031', 'nm0258268']","['Giuseppe Tornatore', 'Vanna Paoli', 'Richard Epcar']","['M', 'F', 'M']",1,3,False
+295,m298,tt0033467,"['nm0542534', 'nm0000080', 'nm0002144', 'nm0219670', 'nm0448809']","['Herman J. Mankiewicz', 'Orson Welles', 'John Houseman', 'Roger Q. Denny', 'Mollie Kent']","['M', 'M', 'M', 'M', 'F']",1,5,False
+296,m299,tt0109445,['nm0003620'],['Kevin Smith'],['M'],0,1,False
+297,m300,tt0106582,"['nm0519026', 'nm0289833', 'nm0000230']","['John Long', 'Michael France', 'Sylvester Stallone']","['M', 'M', 'M']",0,3,False
+298,m301,tt0066921,"['nm0000040', 'nm0121256']","['Stanley Kubrick', 'Anthony Burgess']","['M', 'M']",0,2,False
+299,m302,tt0369339,['nm0064181'],['Stuart Beattie'],['M'],0,1,False
+300,m303,tt0118883,['nm0001338'],['Brian Helgeland'],['M'],0,1,False
+301,m304,tt0118884,"['nm0366337', 'nm0325533', 'nm0755981', 'nm0238668']","['James V. Hart', 'Michael Goldenberg', 'Carl Sagan', 'Ann Druyan']","['M', 'M', 'M', 'F']",1,4,False
+302,m305,tt0061512,"['nm0668914', 'nm0682757', 'nm0237543']","['Donn Pearce', 'Frank Pierson', 'Hal Dresner']","['M', 'M', 'M']",0,3,False
+303,m306,tt0112722,"['nm0081189', 'nm0535189']","['Ann Biderman', 'David Madsen']","['F', 'M']",1,2,False
+304,m307,tt0375679,"['nm0353673', 'nm0604263']","['Paul Haggis', 'Bobby Moresco']","['M', 'M']",0,2,False
+305,m308,tt0790706,['nm0460031'],['Dan Klores'],['M'],0,1,False
+306,m309,tt0310924,['nm0592436'],['Brad Mirman'],['M'],0,1,False
+307,m311,tt0109506,"['nm0639335', 'nm0775017', 'nm0794326']","[""James O'Barr"", 'David J. Schow', 'John Shirley']","['M', 'M', 'M']",0,3,False
+308,m312,tt0139134,"['nm0480166', 'nm0474955']","['Choderlos de Laclos', 'Roger Kumble']","['M', 'M']",0,2,False
+309,m313,tt0036733,['nm0090840'],['DeWitt Bodeen'],['M'],0,1,False
+310,m314,tt0092809,"['nm0153883', 'nm0522454']","['David Chaskin', 'H.P. Lovecraft']","['M', 'M']",0,2,False
+311,m315,tt0118929,"['nm0001639', 'nm0229644', 'nm0275286']","['Alex Proyas', 'Lem Dobbs', 'David S. Goyer']","['M', 'M', 'M']",0,3,False
+312,m316,tt0106673,['nm0002657'],['Gary Ross'],['M'],0,1,False
+313,m317,tt0088993,['nm0001681'],['George A. Romero'],['M'],0,1,False
+314,m318,tt0097165,['nm0776114'],['Tom Schulman'],['M'],0,1,False
+315,m319,tt0118956,['nm0814085'],['Stephen Sommers'],['M'],0,1,False
+316,m320,tt0077416,"['nm0001047', 'nm0913346', 'nm0307311', 'nm0714793']","['Michael Cimino', 'Deric Washburn', 'Louis Garfinkle', 'Quinn K. Redeker']","['M', 'M', 'M', 'M']",0,4,False
+317,m322,tt0263265,"['nm0070948', 'nm0533831', 'nm0223320', 'nm0174374', 'nm0144007']","['Stephen Vincent Benet', 'Archibald Macleish', 'Peter Dexter', 'Bill Condon', 'Nancy Cassaro']","['M', 'M', 'M', 'M', 'F']",1,5,False
+318,m323,tt0095016,"['nm0861636', 'nm0835732', 'nm0211823']","['Roderick Thorp', 'Jeb Stuart', 'Steven E. de Souza']","['M', 'M', 'M']",0,3,False
+319,m324,tt0072890,"['nm0682757', 'nm0460190', 'nm0601944', 'nm0909063']","['Frank Pierson', 'P.F. Kluge', 'Thomas Moore', 'Leslie Waller']","['M', 'M', 'M', 'M']",0,4,False
+320,m325,tt0421054,"['nm0446819', 'nm0052964']","['Richard Kelly', 'Steve Barancik']","['M', 'M']",0,2,False
+321,m326,tt0097216,['nm0000490'],['Spike Lee'],['M'],0,1,False
+322,m327,tt0329028,"['nm0268380', 'nm0947395', 'nm0125803', 'nm1227045', 'nm0003474']","['Peter Farrelly', 'Bennett Yellin', 'Bobby Farrelly', 'Robert Brener', 'Troy Miller']","['M', 'M', 'M', 'M', 'M']",0,5,False
+323,m328,tt0087182,"['nm0378541', 'nm0000186']","['Frank Herbert', 'David Lynch']","['M', 'M']",0,2,False
+324,m329,tt0109707,"['nm0340674', 'nm0018735', 'nm0438989']","['Rudolph Grey', 'Scott Alexander', 'Larry Karaszewski']","['M', 'M', 'M']",0,3,False
+325,m330,tt0131369,"['nm0309996', 'nm0098943', 'nm0304665', 'nm0541632']","['Émile Gaudreault', 'Sylvie Bouchard', 'Lowell Ganz', 'Babaloo Mandel']","['M', 'F', 'M', 'M']",1,4,False
+326,m331,tt0126886,"['nm0674909', 'nm0668247', 'nm0852591']","['Tom Perrotta', 'Alexander Payne', 'Jim Taylor']","['M', 'M', 'M']",0,3,False
+327,m332,tt0119488,"['nm0255278', 'nm0001338', 'nm0000436']","['James Ellroy', 'Brian Helgeland', 'Curtis Hanson']","['M', 'M', 'M']",0,3,False
+328,m333,tt0120660,['nm0545861'],['David Marconi'],['M'],0,1,False
+329,m334,tt0116209,"['nm0648546', 'nm0005237']","['Michael Ondaatje', 'Anthony Minghella']","['M', 'M']",0,2,False
+330,m335,tt0137494,"['nm0060103', 'nm0381110', 'nm0115310']","['Ronald Bass', 'Michael Hertzberg', 'William Broyles Jr.']","['M', 'M', 'M']",0,3,False
+331,m336,tt0195685,['nm0335666'],['Susannah Grant'],['F'],1,1,True
+332,m337,tt0080684,"['nm0102824', 'nm0001410', 'nm0000184']","['Leigh Brackett', 'Lawrence Kasdan', 'George Lucas']","['F', 'M', 'M']",1,3,False
+333,m339,tt0116225,"['nm0000118', 'nm0145309', 'nm0384185', 'nm0000621']","['John Carpenter', 'Nick Castle', 'Debra Hill', 'Kurt Russell']","['M', 'M', 'F', 'M']",1,4,False
+334,m340,tt0082348,"['nm0540627', 'nm0657853', 'nm0000958']","['Thomas Malory', 'Rospo Pallenberg', 'John Boorman']","['M', 'M', 'M']",0,3,False
+335,m341,tt0070047,['nm0087861'],['William Peter Blatty'],['M'],0,1,False
+336,m342,tt0097322,['nm0460141'],['Steve Kloves'],['M'],0,1,False
+337,m343,tt0119094,"['nm0108273', 'nm0171718']","['Mike Werb', 'Michael Colleary']","['M', 'M']",0,2,False
+338,m344,tt0218967,"['nm0224606', 'nm0919289']","['David Diamond', 'David Weissman']","['M', 'M']",0,2,False
+339,m345,tt0109770,"['nm0627537', 'nm1255914', 'nm0456158', 'nm0498278']","['Craig J. Nevius', 'Kevin Rock', 'Jack Kirby', 'Stan Lee']","['M', 'M', 'M', 'M']",0,4,False
+340,m346,tt0060397,"['nm0459067', 'nm0241949', 'nm0459216', 'nm0003198']","['Harry Kleiner', 'David Duncan', 'Otto Klement', 'Jerome Bixby']","['M', 'M', 'M', 'M']",0,4,False
+341,m347,tt0116282,"['nm0001053', 'nm0001054']","['Ethan Coen', 'Joel Coen']","['M', 'M']",0,2,False
+342,m348,tt0137523,"['nm0657333', 'nm0880243']","['Chuck Palahniuk', 'Jim Uhls']","['M', 'M']",0,2,False
+343,m349,tt0309593,"['nm0344259', 'nm0107774', 'nm0714695']","['J. Mackye Gruber', 'Eric Bress', 'Jeffrey Reddick']","['M', 'M', 'M']",0,3,False
+344,m350,tt0195714,"['nm0604688', 'nm0939128', 'nm0714695']","['Glen Morgan', 'James Wong', 'Jeffrey Reddick']","['M', 'M', 'M']",0,3,False
+345,m351,tt0089880,"['nm0606251', 'nm0418883', 'nm0000230', 'nm0000116']","['David Morrell', 'Kevin Jarre', 'Sylvester Stallone', 'James Cameron']","['M', 'M', 'M', 'M']",0,4,False
+346,m352,tt0101889,['nm0481418'],['Richard LaGravenese'],['M'],0,1,False
+347,m353,tt0065724,"['nm0247628', 'nm0706182']","['Carole Eastman', 'Bob Rafelson']","['F', 'M']",1,2,False
+348,m354,tt0240507,['nm0813164'],['Peter Sollett'],['M'],0,1,False
+349,m355,tt0089155,"['nm0567780', 'nm0000921', 'nm0004675']","['Gregory McDonald', 'Andrew Bergman', 'Phil Alden Robinson']","['M', 'M', 'M']",0,3,False
+350,m356,tt0098987,"['nm0914058', 'nm0135470', 'nm0036714', 'nm0918266']","['Daniel Waters', 'James Cappe', 'David Arnott', 'Rex Weiner']","['M', 'M', 'M', 'M']",0,4,False
+351,m357,tt0067116,"['nm0862781', 'nm0601811']","['Ernest Tidyman', 'Robin Moore']","['M', 'M']",0,2,False
+352,m358,tt0186151,['nm0256497'],['Toby Emmerich'],['M'],0,1,False
+353,m359,tt0083972,"['nm0457725', 'nm0914536', 'nm0566699', 'nm0413826', 'nm0192446']","['Martin Kitrosser', 'Carol Watson', 'Victor Miller', 'Ron Kurz', 'Sean S. Cunningham']","['M', 'F', 'M', 'M', 'M']",1,5,False
+354,m360,tt0091080,"['nm0572951', 'nm0192446', 'nm0566699']","['Tom McLoughlin', 'Sean S. Cunningham', 'Victor Miller']","['M', 'M', 'M']",0,3,False
+355,m361,tt0107254,"['nm0401095', 'nm0546057', 'nm0520893']","['Jay Huguely', 'Adam Marcus', 'Dean Lorey']","['M', 'M', 'M']",0,3,False
+356,m362,tt0097388,"['nm0373154', 'nm0566699']","['Rob Hedden', 'Victor Miller']","['M', 'M']",0,2,False
+357,m363,tt0425055,['nm1680347'],['Don DeLillo'],['M'],0,1,False
+358,m365,tt0119177,['nm0629272'],['Andrew Niccol'],['M'],0,1,False
+359,m366,tt0068638,"['nm0001353', 'nm0860292']","['Walter Hill', 'Jim Thompson']","['M', 'M']",0,2,False
+360,m367,tt0208988,"['nm0507794', 'nm0571346']","['Ted Lewis', 'David McKenna']","['M', 'M']",0,2,False
+361,m368,tt0104348,['nm0000519'],['David Mamet'],['M'],0,1,False
+362,m369,tt0071562,"['nm0000338', 'nm0701374']","['Francis Ford Coppola', 'Mario Puzo']","['M', 'M']",0,2,False
+363,m370,tt0120684,"['nm0104161', 'nm0174374']","['Christopher Bram', 'Bill Condon']","['M', 'M']",0,2,False
+364,m371,tt0187078,"['nm0355181', 'nm0003298']","['H.B. Halicki', 'Scott Rosenberg']","['M', 'M']",0,2,False
+365,m372,tt0099685,"['nm0683380', 'nm0000217']","['Nicholas Pileggi', 'Martin Scorsese']","['M', 'M']",0,2,False
+366,m373,tt0119217,"['nm0000354', 'nm0000255']","['Matt Damon', 'Ben Affleck']","['M', 'M']",0,2,False
+367,m374,tt0032551,"['nm0425913', 'nm0825705']","['Nunnally Johnson', 'John Steinbeck']","['M', 'M']",0,2,False
+368,m375,tt0119229,"['nm0417716', 'nm0222584', 'nm0684336', 'nm0000131']","['Tom Jankiewicz', 'D.V. DeVincentis', 'Steve Pink', 'John Cusack']","['M', 'M', 'M', 'M']",0,4,False
+369,m376,tt0119314,"['nm0263097', 'nm0744839', 'nm0481418']","['Nick Evans', 'Eric Roth', 'Richard LaGravenese']","['M', 'M', 'M']",0,3,False
+370,m377,tt0113243,['nm0604360'],['Rafael Moreu'],['M'],0,1,False
+371,m378,tt0095271,"['nm0513772', 'nm0711910', 'nm0749318', 'nm0568416']","['Dhani Lipsius', 'Larry Rattner', 'Benjamin Ruffner', 'Alan B. McElroy']","['F', 'M', 'M', 'M']",1,4,False
+372,m379,tt0077651,"['nm0000118', 'nm0384185']","['John Carpenter', 'Debra Hill']","['M', 'F', 'M']",1,3,False
+373,m380,tt0091167,['nm0000095'],['Woody Allen'],['M'],0,1,False
+374,m381,tt0212985,"['nm0365383', 'nm0000519', 'nm0001873']","['Thomas Harris', 'David Mamet', 'Steven Zaillian']","['M', 'M', 'M']",0,3,False
+375,m382,tt0210094,['nm0914058'],['Daniel Waters'],['M'],0,1,False
+376,m383,tt0097493,['nm0914058'],['Daniel Waters'],['M'],0,1,False
+377,m384,tt0110005,"['nm0909638', 'nm0001392']","['Fran Walsh', 'Peter Jackson']","['F', 'M']",1,2,False
+378,m385,tt0274546,"['nm0000850', 'nm0243463', 'nm0206609']","['Clive Barker', 'Carl V. Dupré', 'Tim Day']","['M', 'M', 'M']",0,3,False
+379,m386,tt0104412,"['nm0957205', 'nm0765091', 'nm0672459']","['Laura Ziskin', 'Alvin Sargent', 'David Webb Peoples']","['F', 'M', 'M']",1,3,False
+380,m387,tt0097503,['nm0229644'],['Lem Dobbs'],['M'],0,1,False
+381,m388,tt0110027,"['nm0927074', 'nm0592436', 'nm0659949', 'nm0645017', 'nm0544528']","['Gregory Widen', 'Brad Mirman', 'William N. Panzer', 'Paul Ohl', 'René Manzor']","['M', 'M', 'M', 'M', 'M']",0,5,False
+382,m389,tt0340163,"['nm0186101', 'nm0724514']","['Robert Crais', 'Doug Richardson']","['M', 'M']",0,2,False
+383,m390,tt0395169,"['nm0669311', 'nm0313623']","['Keir Pearson', 'Terry George']","['M', 'M']",0,2,False
+384,m391,tt0185371,"['nm0925380', 'nm0066243']","['Robb White', 'Dick Beebe']","['M', 'M']",0,2,False
+385,m392,tt0116573,"['nm0615814', 'nm0110805']","['Victoria Muspratt', 'Brendan Broderick']","['F', 'M']",1,2,False
+386,m393,tt0104409,"['nm0040643', 'nm0709752', 'nm0000850']","['Peter Atkins', 'Tony Randel', 'Clive Barker']","['M', 'M', 'M']",0,3,False
+387,m394,tt0102070,"['nm0000246', 'nm0469234', 'nm0211823', 'nm0914058']","['Bruce Willis', 'Robert Kraft', 'Steven E. de Souza', 'Daniel Waters']","['M', 'M', 'M', 'M']",0,4,False
+388,m395,tt0110074,"['nm0001053', 'nm0001054', 'nm0000600']","['Ethan Coen', 'Joel Coen', 'Sam Raimi']","['M', 'M', 'M']",0,3,False
+389,m396,tt0036027,"['nm0802561', 'nm0942027', 'nm0908681', 'nm0111576']","['Curt Siodmak', 'Ardel Wray', 'Inez Wallace', 'Charlotte Brontë']","['M', 'F', 'F', 'F']",3,4,False
+390,m397,tt0119349,"['nm0600528', 'nm0770005']","['Rick Moody', 'James Schamus']","['M', 'M']",0,2,False
+391,m398,tt0278504,"['nm0782711', 'nm0296154', 'nm0804408']","['Hillary Seitz', 'Nikolaj Frobenius', 'Erik Skjoldbjærg']","['F', 'M', 'M']",1,3,False
+392,m399,tt0110148,['nm0723351'],['Anne Rice'],['F'],1,1,True
+393,m400,tt0130018,"['nm0242028', 'nm0007029']","['Lois Duncan', 'Trey Callaway']","['F', 'M']",1,2,False
+394,m401,tt0037820,"['nm0942027', 'nm0507932', 'nm0592679']","['Ardel Wray', 'Val Lewton', 'Josef Mischel']","['F', 'M', 'M']",1,3,False
+395,m402,tt0038650,"['nm0329304', 'nm0352443', 'nm0001008', 'nm0842485', 'nm0827821', 'nm0933858']","['Frances Goodrich', 'Albert Hackett', 'Frank Capra', 'Jo Swerling', 'Philip Van Doren Stern', 'Michael Wilson']","['F', 'M', 'M', 'M', 'M', 'M']",1,6,False
+396,m403,tt0077766,"['nm0001940', 'nm0331956', 'nm0755274']","['Peter Benchley', 'Carl Gottlieb', 'Howard Sackler']","['M', 'M', 'M']",0,3,False
+397,m404,tt0085750,"['nm0001940', 'nm0558577', 'nm0331956', 'nm0874100', 'nm0437393']","['Peter Benchley', 'Richard Matheson', 'Carl Gottlieb', 'Guerdon Trueblood', 'Michael Kane']","['M', 'M', 'M', 'M', 'M']",0,5,False
+398,m405,tt0093300,"['nm0001940', 'nm0208775']","['Peter Benchley', 'Michael De Guzman']","['M', 'M']",0,2,False
+399,m407,tt0104549,['nm0732430'],['Bruce Robinson'],['M'],0,1,False
+400,m408,tt0116695,['nm0001081'],['Cameron Crowe'],['M'],0,1,False
+401,m409,tt0163025,"['nm0000341', 'nm0118224', 'nm0668247', 'nm0852591']","['Michael Crichton', 'Peter Buchman', 'Alexander Payne', 'Jim Taylor']","['M', 'M', 'M', 'M']",0,4,False
+402,m410,tt0119567,"['nm0000341', 'nm0462895']","['Michael Crichton', 'David Koepp']","['M', 'M']",0,2,False
+403,m411,tt0107290,"['nm0000341', 'nm0462895']","['Michael Crichton', 'David Koepp']","['M', 'M']",0,2,False
+404,m413,tt0102181,['nm0229644'],['Lem Dobbs'],['M'],0,1,False
+405,m414,tt0360717,"['nm0909638', 'nm0101991', 'nm0001392', 'nm0178260', 'nm0908624']","['Fran Walsh', 'Philippa Boyens', 'Peter Jackson', 'Merian C. Cooper', 'Edgar Wallace']","['F', 'F', 'M', 'M', 'M']",2,5,False
+406,m415,tt0067309,"['nm0506920', 'nm5557134']","['Andy Lewis', 'David E. Lewis']","['M', 'M']",0,2,False
+407,m416,tt0079417,"['nm0180011', 'nm0000914']","['Avery Corman', 'Robert Benton']","['M', 'M']",0,2,False
+408,m417,tt0119485,['nm0558953'],['Melissa Mathison'],['F'],1,1,True
+409,m418,tt0139414,['nm0005082'],['David E. Kelley'],['M'],0,1,False
+410,m419,tt0102926,"['nm0365383', 'nm0848217']","['Thomas Harris', 'Ted Tally']","['M', 'M']",0,2,False
+411,m420,tt0076300,"['nm0007122', 'nm0178126']","['Stephen Lord', 'James Fenimore Cooper']","['M', 'M']",0,2,False
+412,m421,tt0097737,"['nm0672459', 'nm0835732']","['David Webb Peoples', 'Jeb Stuart']","['M', 'M']",0,2,False
+413,m422,tt0120735,['nm0005363'],['Guy Ritchie'],['M'],0,1,False
+414,m423,tt0116905,['nm0000626'],['John Sayles'],['M'],0,1,False
+415,m424,tt0113690,['nm0000850'],['Clive Barker'],['M'],0,1,False
+416,m425,tt0335266,['nm0001068'],['Sofia Coppola'],['F'],1,1,True
+417,m426,tt0160484,"['nm0307070', 'nm0821439']","['Pierce Gardner', 'Betsy Stahl']","['M', 'F']",1,2,False
+418,m427,tt0199725,['nm0697656'],['Gina Prince-Bythewood'],['F'],1,1,True
+419,m428,tt0175880,['nm0000759'],['Paul Thomas Anderson'],['M'],0,1,False
+420,m429,tt0120744,"['nm0241416', 'nm0908824']","['Alexandre Dumas', 'Randall Wallace']","['M', 'M']",0,2,False
+421,m431,tt0091474,"['nm0365383', 'nm0000520']","['Thomas Harris', 'Michael Mann']","['M', 'M']",0,2,False
+422,m432,tt0125664,"['nm0018735', 'nm0438989']","['Scott Alexander', 'Larry Karaszewski']","['M', 'M']",0,2,False
+423,m433,tt0133093,"['nm0905152', 'nm0905154']","['Lilly Wachowski', 'Lana Wachowski']","['F', 'F']",2,2,True
+424,m434,tt0085636,"['nm0908890', 'nm0000118', 'nm0460600']","['Tommy Lee Wallace', 'John Carpenter', 'Nigel Kneale']","['M', 'M', 'M']",0,3,False
+425,m435,tt0119643,"['nm0651592', 'nm0719734', 'nm0905458', 'nm0325743', 'nm0143281', 'nm0274923', 'nm0027173', 'nm0499628']","['Ron Osborn', 'Jeff Reno', 'Kevin Wade', 'Bo Goldman', 'Alberto Casella', 'Walter Ferris', 'Maxwell Anderson', 'Gladys Lehman']","['M', 'M', 'M', 'M', 'M', 'M', 'M']",0,7,False
+426,m436,tt0209144,"['nm0634240', 'nm0634300']","['Christopher Nolan', 'Jonathan Nolan']","['M', 'M']",0,2,False
+427,m437,tt0430357,"['nm0000520', 'nm0947608']","['Michael Mann', 'Anthony Yerkovich']","['M', 'M']",0,2,False
+428,m438,tt0064665,"['nm0759029', 'nm0379052']","['Waldo Salt', 'James Leo Herlihy']","['M', 'M']",0,2,False
+429,m439,tt0077928,"['nm0000231', 'nm0370907', 'nm0388772']","['Oliver Stone', 'Billy Hayes', 'William Hoffer']","['M', 'M', 'M']",0,3,False
+430,m440,tt0119675,"['nm0938586', 'nm0730422', 'nm0868219']","['Donald A. Wollheim', 'Matthew Robbins', 'Guillermo del Toro']","['M', 'M', 'M']",0,3,False
+431,m441,tt0100157,"['nm0000175', 'nm0001279']","['Stephen King', 'William Goldman']","['M', 'M']",0,2,False
+432,m442,tt0120755,"['nm0312367', 'nm0601822', 'nm0103804', 'nm0001801']","['Bruce Geller', 'Ronald D. Moore', 'Brannon Braga', 'Robert Towne']","['M', 'M', 'M', 'M']",0,4,False
+433,m443,tt0117060,"['nm0312367', 'nm0462895', 'nm0001873', 'nm0001801']","['Bruce Geller', 'David Koepp', 'Steven Zaillian', 'Robert Towne']","['M', 'M', 'M', 'M']",0,4,False
+434,m444,tt0093565,['nm0788234'],['John Patrick Shanley'],['M'],0,1,False
+435,m445,tt0071853,"['nm0001037', 'nm0000092', 'nm0001385', 'nm0000416', 'nm0001402', 'nm0001589', 'nm0540627']","['Graham Chapman', 'John Cleese', 'Eric Idle', 'Terry Gilliam', 'Terry Jones', 'Michael Palin', 'Thomas Malory']","['M', 'M', 'M', 'M', 'M', 'M', 'M']",0,7,False
+436,m446,tt0119280,['nm0110591'],['Jeremy Brock'],['M'],0,1,False
+437,m447,tt0106302,"['nm0023929', 'nm0275286']","['Charles Band', 'David S. Goyer']","['M', 'M']",0,2,False
+438,m448,tt0166924,['nm0000186'],['David Lynch'],['M'],0,1,False
+439,m450,tt0110613,"['nm0253214', 'nm0468293']","['Laurice Elehwany', 'Janet Kovalcik']","['F', 'F']",2,2,True
+440,m451,tt0102492,['nm0253214'],['Laurice Elehwany'],['F'],1,1,True
+441,m452,tt0119738,['nm0060103'],['Ronald Bass'],['M'],0,1,False
+442,m453,tt0073440,['nm0570219'],['Joan Tewkesbury'],['F'],1,1,True
+443,m454,tt0110632,"['nm0000233', 'nm0892705', 'nm0752116', 'nm0000231']","['Quentin Tarantino', 'David Veloz', 'Richard Rutowski', 'Oliver Stone']","['M', 'M', 'M', 'M']",0,4,False
+444,m455,tt0058414,"['nm0736394', 'nm0950001']","['Michael Roemer', 'Robert M. Young']","['M', 'M']",0,2,False
+445,m458,tt0151738,"['nm0463359', 'nm0799050']","['Abby Kohn', 'Marc Silverstein']","['F', 'M']",1,2,False
+446,m459,tt0107688,"['nm0000318', 'nm0568313', 'nm0003031']","['Tim Burton', 'Michael McDowell', 'Caroline Thompson']","['M', 'M', 'F']",1,3,False
+447,m460,tt0089686,"['nm0153883', 'nm0000127']","['David Chaskin', 'Wes Craven']","['M', 'M']",0,2,False
+448,m461,tt0093629,"['nm0000127', 'nm0905818', 'nm0001104', 'nm0751080']","['Wes Craven', 'Bruce Wagner', 'Frank Darabont', 'Chuck Russell']","['M', 'M', 'M', 'M']",0,4,False
+449,m462,tt0125439,['nm0193485'],['Richard Curtis'],['M'],0,1,False
+450,m463,tt0073486,"['nm0369142', 'nm0325743', 'nm0450181', 'nm0913670']","['Lawrence Hauben', 'Bo Goldman', 'Ken Kesey', 'Dale Wasserman']","['M', 'M', 'M', 'M']",0,4,False
+451,m464,tt0110737,['nm0236884'],['Diane Drake'],['F'],1,1,True
+452,m465,tt0047296,"['nm0775977', 'nm0425711', 'nm0802563']","['Budd Schulberg', 'Malcolm Johnson', 'Robert Siodmak']","['M', 'M', 'M']",0,3,False
+453,m466,tt0054240,['nm0000248'],['Edward D. Wood Jr.'],['M'],0,1,False
+454,m467,tt0120780,"['nm0001465', 'nm0291082']","['Elmore Leonard', 'Scott Frank']","['M', 'M']",0,2,False
+455,m468,tt0213149,['nm0908824'],['Randall Wallace'],['M'],0,1,False
+456,m469,tt0091738,"['nm0500090', 'nm0765403']","['Jerry Leichtling', 'Arlene Sarner']","['M', 'F']",1,2,False
+457,m470,tt0105128,['nm0653693'],['Richard Outten'],['M'],0,1,False
+458,m471,tt0107818,['nm0638913'],['Ron Nyswaner'],['M'],0,1,False
+459,m472,tt0134847,"['nm0923646', 'nm0003117', 'nm0878638']","['Jim Wheat', 'Ken Wheat', 'David Twohy']","['M', 'M', 'M']",0,3,False
+460,m473,tt0063442,"['nm0933858', 'nm0785245', 'nm0099541', 'nm0445934']","['Michael Wilson', 'Rod Serling', 'Pierre Boulle', 'John T. Kelley']","['M', 'M', 'M', 'M']",0,4,False
+461,m474,tt0091763,['nm0000231'],['Oliver Stone'],['M'],0,1,False
+462,m475,tt0114142,"['nm0239490', 'nm0766020']","['David DuBos', 'Oley Sassone']","['M', 'M']",0,2,False
+463,m476,tt0086122,['nm0568605'],['Ian McEwan'],['M'],0,1,False
+464,m477,tt0102685,"['nm0004488', 'nm0407717']","['Rick King', 'W. Peter Iliff']","['M', 'M']",0,2,False
+465,m478,tt0093773,"['nm0859029', 'nm0859049']","['Jim Thomas', 'John Thomas']","['M', 'M']",0,2,False
+466,m479,tt0100405,['nm0493369'],['J.F. Lawton'],['M'],0,1,False
+467,m480,tt0093779,['nm0001279'],['William Goldman'],['M'],0,1,False
+468,m481,tt0395251,"['nm0000316', 'nm0576070']","['Mel Brooks', 'Thomas Meehan']","['M', 'M']",0,2,False
+469,m482,tt0054215,"['nm0825010', 'nm0088645']","['Joseph Stefano', 'Robert Bloch']","['M', 'M']",0,2,False
+470,m485,tt0024368,"['nm0611920', 'nm0259022', 'nm0067676']","['Don Mullaly', 'Carl Erickson', 'Charles Belden']","['M', 'M', 'M']",0,3,False
+471,m486,tt0239860,"['nm0169173', 'nm0322368']","['David Aaron Cohen', 'Francis Glebas']","['M', 'M']",0,2,False
+472,m487,tt0102753,['nm0932229'],['Calder Willingham'],['M'],0,1,False
+473,m489,tt0086190,"['nm0001410', 'nm0000184']","['Lawrence Kasdan', 'George Lucas']","['M', 'M']",0,2,False
+474,m490,tt0073629,"['nm0639782', 'nm0788940']","[""Richard O'Brien"", 'Jim Sharman']","['M', 'M']",0,2,False
+475,m491,tt0075148,['nm0000230'],['Sylvester Stallone'],['M'],0,1,False
+476,m492,tt0096438,"['nm0937757', 'nm0696949', 'nm0780620', 'nm5927607', 'nm5927608']","['Gary K. Wolf', 'Jeffrey Price', 'Peter S. Seaman', 'Ted Osborne', 'Al Taliaferro']","['M', 'M', 'M', 'M', 'M']",0,5,False
+477,m493,tt0063518,"['nm0000636', 'nm0116663', 'nm0195148', 'nm0001874']","['William Shakespeare', 'Franco Brusati', ""Masolino D'Amico"", 'Franco Zeffirelli']","['M', 'M', 'M', 'M']",0,4,False
+478,m494,tt0122690,"['nm0954345', 'nm0000519']","['J.D. Zeik', 'David Mamet']","['M', 'M']",0,2,False
+479,m495,tt0140519,"['nm0110805', 'nm0449246']","['Brendan Broderick', 'Rob Kerchner']","['M', 'M']",0,2,False
+480,m496,tt0266915,"['nm0482780', 'nm0622288']","['Ross LaManna', 'Jeff Nathanson']","['M', 'M']",0,2,False
+481,m497,tt0120812,"['nm0482780', 'nm0467942']","['Ross LaManna', 'Jim Kouf']","['M', 'M']",0,2,False
+482,m498,tt0163187,"['nm0569210', 'nm0663490']","['Josann McGibbon', 'Sara Parriott']","['F', 'F']",2,2,True
+483,m499,tt0108160,"['nm0033578', 'nm0001188', 'nm0911486']","['Jeff Arch', 'Nora Ephron', 'David S. Ward']","['M', 'F', 'M']",1,3,False
+484,m500,tt0047443,['nm0933858'],['Michael Wilson'],['M'],0,1,False
+485,m501,tt0235737,['nm0311024'],['Tony Gayton'],['M'],0,1,False
+486,m502,tt0120815,['nm0734441'],['Robert Rodat'],['M'],0,1,False
+487,m503,tt0098258,['nm0001081'],['Cameron Crowe'],['M'],0,1,False
+488,m504,tt0108052,"['nm0447745', 'nm0001873']","['Thomas Keneally', 'Steven Zaillian']","['M', 'M']",0,2,False
+489,m505,tt0120082,['nm0932078'],['Kevin Williamson'],['M'],0,1,False
+490,m506,tt0134084,"['nm0932078', 'nm0472567']","['Kevin Williamson', 'Ehren Kruger']","['M', 'M']",0,2,False
+491,m507,tt0117571,['nm0932078'],['Kevin Williamson'],['M'],0,1,False
+492,m508,tt0079882,"['nm0238083', 'nm0047915', 'nm0796477']","['William Driskill', 'Robert Baird', 'Andy Sidaris']","['M', 'M', 'M']",0,3,False
+493,m509,tt0049730,"['nm0637793', 'nm0494435']","['Frank S. Nugent', 'Alan Le May']","['M', 'M']",0,2,False
+494,m510,tt0221928,['nm0004308'],['Dirk Ahner'],['M'],0,1,False
+495,m511,tt0138097,"['nm0635565', 'nm0001779']","['Marc Norman', 'Tom Stoppard']","['M', 'M']",0,2,False
+496,m512,tt0111149,['nm0388076'],['John Hodge'],['M'],0,1,False
+497,m513,tt0073692,"['nm0001801', 'nm0000886']","['Robert Towne', 'Warren Beatty']","['M', 'M']",0,2,False
+498,m514,tt0081505,"['nm0000175', 'nm0000040', 'nm0424956']","['Stephen King', 'Stanley Kubrick', 'Diane Johnson']","['M', 'M', 'F']",1,3,False
+499,m515,tt0090021,['nm0000175'],['Stephen King'],['M'],0,1,False
+500,m516,tt0105417,['nm0397411'],['Paul Rudnick'],['M'],0,1,False
+501,m517,tt0162661,"['nm0410331', 'nm0944892', 'nm0001825']","['Washington Irving', 'Kevin Yagher', 'Andrew Kevin Walker']","['M', 'M', 'M']",0,3,False
+502,m518,tt0117666,['nm0000671'],['Billy Bob Thornton'],['M'],0,1,False
+503,m519,tt0114478,['nm0000808'],['Paul Auster'],['M'],0,1,False
+504,m520,tt0120834,"['nm0349189', 'nm0060103', 'nm0382956']","['David Guterson', 'Ronald Bass', 'Scott Hicks']","['M', 'M', 'M']",0,3,False
+505,m522,tt0053291,"['nm0000697', 'nm0224634', 'nm0858329', 'nm0517615']","['Billy Wilder', 'I.A.L. Diamond', 'Robert Thoeren', 'Michael Logan']","['M', 'M', 'M', 'M']",0,4,False
+506,m523,tt0372532,"['nm1814871', 'nm1401416']","['Elizabeth Young', 'Dana Fox']","['F', 'F']",2,2,True
+507,m524,tt0069303,"['nm0253039', 'nm0035943']","['Lonne Elder III', 'William H. Armstrong']","['M', 'M']",0,2,False
+508,m525,tt0158983,"['nm0005295', 'nm0001778', 'nm0103702']","['Trey Parker', 'Matt Stone', 'Pam Brady']","['M', 'M', 'F']",1,3,False
+509,m526,tt0120174,"['nm0110805', 'nm0700706']","['Brendan Broderick', 'Daniella Purcell']","['M', 'F']",1,2,False
+510,m527,tt0108200,['nm0342265'],['Christopher Grimm'],['M'],0,1,False
+511,m528,tt0120184,"['nm0000341', 'nm0934483', 'nm0369561', 'nm0001921']","['Michael Crichton', 'Kurt Wimmer', 'Stephen Hauser', 'Paul Attanasio']","['M', 'M', 'M', 'M']",0,4,False
+512,m529,tt0076759,['nm0000184'],['George Lucas'],['M'],0,1,False
+513,m530,tt0120201,"['nm0627159', 'nm0374423']","['Edward Neumeier', 'Robert A. Heinlein']","['M', 'M']",0,2,False
+514,m531,tt0079945,"['nm0734472', 'nm0515245', 'nm0287669']","['Gene Roddenberry', 'Harold Livingston', 'Alan Dean Foster']","['M', 'M', 'M']",0,3,False
+515,m532,tt0120202,['nm0000519'],['David Mamet'],['M'],0,1,False
+516,m533,tt0120686,"['nm0505144', 'nm0625458', 'nm0737216', 'nm0394212', 'nm0060103']","['Gigi Levangie', 'Jessie Nelson', 'Steven Rogers', 'Karen Leigh Hopkins', 'Ronald Bass']","['F', 'F', 'M', 'F', 'M']",3,5,False
+517,m534,tt0250081,['nm0001754'],['Todd Solondz'],['M'],0,1,False
+518,m536,tt0057012,"['nm0000040', 'nm0816143', 'nm0313570']","['Stanley Kubrick', 'Terry Southern', 'Peter George']","['M', 'M', 'M']",0,3,False
+519,m537,tt0120238,['nm0091899'],['Eric Bogosian'],['M'],0,1,False
+520,m538,tt0186589,['nm0625570'],['Mandy Nelson'],['F'],1,1,True
+521,m539,tt0043014,"['nm0102818', 'nm0000697', 'nm0551261']","['Charles Brackett', 'Billy Wilder', 'D.M. Marshman Jr.']","['M', 'M', 'M']",0,3,False
+522,m540,tt0088206,"['nm0643973', 'nm2406394', 'nm2530490']","['David Odell', 'Otto Binder', 'Al Plastino']","['M', 'M', 'M']",0,3,False
+523,m541,tt0086393,"['nm0796950', 'nm0795975', 'nm0628058', 'nm0628174', 'nm0701374']","['Jerry Siegel', 'Joe Shuster', 'David Newman', 'Leslie Newman', 'Mario Puzo']","['M', 'M', 'M', 'F', 'M']",1,5,False
+524,m542,tt0081573,"['nm0796950', 'nm0795975', 'nm0701374', 'nm0628058', 'nm0628174', 'nm0542539']","['Jerry Siegel', 'Joe Shuster', 'Mario Puzo', 'David Newman', 'Leslie Newman', 'Tom Mankiewicz']","['M', 'M', 'M', 'M', 'F', 'M']",1,6,False
+525,m543,tt0094074,"['nm0796950', 'nm0795975', 'nm0001659', 'nm0465199', 'nm0742797']","['Jerry Siegel', 'Joe Shuster', 'Christopher Reeve', 'Lawrence Konner', 'Mark Rosenthal']","['M', 'M', 'M', 'M', 'M']",0,5,False
+526,m544,tt0078346,"['nm0796950', 'nm0795975', 'nm0701374', 'nm0628058', 'nm0628174', 'nm0000914', 'nm0542539']","['Jerry Siegel', 'Joe Shuster', 'Mario Puzo', 'David Newman', 'Leslie Newman', 'Robert Benton', 'Tom Mankiewicz']","['M', 'M', 'M', 'M', 'F', 'M', 'M']",1,7,False
+527,m545,tt0120255,"['nm0001930', 'nm0000382']","['Russell Banks', 'Atom Egoyan']","['M', 'M']",0,2,False
+528,m546,tt0051036,"['nm0644048', 'nm0499626', 'nm0533241']","['Clifford Odets', 'Ernest Lehman', 'Alexander Mackendrick']","['M', 'M', 'M']",0,3,False
+529,m547,tt0103064,"['nm0000116', 'nm0936537']","['James Cameron', 'William Wisher']","['M', 'M']",0,2,False
+530,m548,tt0260414,['nm0367838'],['Ronald Harwood'],['M'],0,1,False
+531,m549,tt0088247,"['nm0000116', 'nm0005036', 'nm0936537']","['James Cameron', 'Gale Anne Hurd', 'William Wisher']","['M', 'F', 'M']",1,3,False
+532,m550,tt0119174,"['nm0104335', 'nm0274905']","['John Brancato', 'Michael Ferris']","['M', 'M']",0,2,False
+533,m551,tt0171363,"['nm0783100', 'nm0414047']","['David Self', 'Shirley Jackson']","['M', 'F']",1,2,False
+534,m552,tt0165854,['nm0229644'],['Lem Dobbs'],['M'],0,1,False
+535,m553,tt0243133,"['nm0001054', 'nm0001053']","['Joel Coen', 'Ethan Coen']","['M', 'M']",0,2,False
+536,m554,tt0120004,"['nm0696409', 'nm0157470', 'nm0427468', 'nm0706311', 'nm0415425', 'nm0798646']","['Douglas Preston', 'Lincoln Child', 'Amy Holden Jones', 'John Raffo', 'Rick Jaffa', 'Amanda Silver']","['M', 'M', 'F', 'M', 'M', 'F']",2,6,False
+537,m555,tt0120382,['nm0629272'],['Andrew Niccol'],['M'],0,1,False
+538,m556,tt0120902,"['nm0004810', 'nm0819487']","['Chris Carter', 'Frank Spotnitz']","['M', 'M']",0,2,False
+539,m557,tt0209958,['nm0698873'],['Mark Protosevich'],['M'],0,1,False
+540,m558,tt0041959,"['nm0001294', 'nm0000080', 'nm0466099', 'nm0715346']","['Graham Greene', 'Orson Welles', 'Alexander Korda', 'Carol Reed']","['M', 'M', 'M', 'M']",0,4,False
+541,m559,tt0163978,"['nm0388076', 'nm0307497']","['John Hodge', 'Alex Garland']","['M', 'M']",0,2,False
+542,m560,tt0247199,"['nm0063785', 'nm0414893']","['Henry Bean', 'Mark Jacobson']","['M', 'M']",0,2,False
+543,m561,tt0095250,"['nm0000108', 'nm0307561', 'nm0325665', 'nm0562936', 'nm0674700']","['Luc Besson', 'Robert Garland', 'Marilyn Goldin', 'Jacques Mayol', 'Marc Perrier']","['M', 'M', 'F', 'M', 'M']",1,5,False
+544,m562,tt0317640,['nm1165576'],['Jonathan Kesselman'],['M'],0,1,False
+545,m563,tt0036104,"['nm0942027', 'nm0215085', 'nm0941280']","['Ardel Wray', 'Edward Dein', 'Cornell Woolrich']","['F', 'M', 'M']",1,3,False
+546,m564,tt0144286,"['nm0496226', 'nm0112127', 'nm0590105']","['Eric Leclere', 'Margaret Leclere', 'Mark Mills']","['M', 'F', 'M']",1,3,False
+547,m565,tt0790712,"['nm0131947', 'nm0610219']","['Alessandro Camon', 'Oren Moverman']","['M', 'M']",0,2,False
+548,m566,tt0253474,"['nm0367838', 'nm0844262']","['Ronald Harwood', 'Wladyslaw Szpilman']","['M', 'M']",0,2,False
+549,m567,tt0107822,['nm0001005'],['Jane Campion'],['F'],1,1,True
+550,m568,tt0070735,['nm0911486'],['David S. Ward'],['M'],0,1,False
+551,m569,tt0025878,"['nm0352443', 'nm0329304', 'nm0358591']","['Albert Hackett', 'Frances Goodrich', 'Dashiell Hammett']","['M', 'F', 'M']",1,3,False
+552,m570,tt0120188,"['nm0725983', 'nm0751102']","['John Ridley', 'David O. Russell']","['M', 'M']",0,2,False
+553,m571,tt0066434,"['nm0000184', 'nm0004555']","['George Lucas', 'Walter Murch']","['M', 'M']",0,2,False
+554,m572,tt0196158,['nm0546803'],['Paul B. Margolis'],['M'],0,1,False
+555,m573,tt0023622,"['nm0710723', 'nm0428177', 'nm0015801']","['Samson Raphaelson', 'Grover Jones', 'Aladar Laszlo']","['M', 'M', 'M']",0,3,False
+556,m574,tt0120338,['nm0000116'],['James Cameron'],['M'],0,1,False
+557,m575,tt0025905,"['nm0330390', 'nm0545309', 'nm0174889']","['Leon Gordon', 'Joseph Moncure March', 'Harry W. Conn']","['M', 'M', 'M']",0,3,False
+558,m576,tt0108358,['nm0418883'],['Kevin Jarre'],['M'],0,1,False
+559,m577,tt0120347,"['nm0270761', 'nm0001220']","['Bruce Feirstein', 'Ian Fleming']","['M', 'M']",0,2,False
+560,m578,tt0100791,['nm0122344'],['Charles Burnett'],['M'],0,1,False
+561,m579,tt0114709,"['nm0005124', 'nm0230032', 'nm0004056', 'nm0710020', 'nm0923736', 'nm0169505', 'nm0812513']","['John Lasseter', 'Pete Docter', 'Andrew Stanton', 'Joe Ranft', 'Joss Whedon', 'Joel Cohen', 'Alec Sokolow']","['M', 'M', 'M', 'M', 'M', 'M', 'M']",0,7,False
+562,m580,tt0097806,['nm0141462'],['Angela Carter'],['F'],1,1,True
+563,m581,tt0181865,"['nm0601881', 'nm0300866']","['Simon Moore', 'Stephen Gaghan']","['M', 'M']",0,2,False
+564,m582,tt0117951,"['nm0920543', 'nm0388076']","['Irvine Welsh', 'John Hodge']","['M', 'M']",0,2,False
+565,m583,tt0098382,"['nm0734472', 'nm0000638', 'nm0071790', 'nm0521739']","['Gene Roddenberry', 'William Shatner', 'Harve Bennett', 'David Loughery']","['M', 'M', 'M', 'M']",0,4,False
+566,m584,tt0084827,"['nm0513974', 'nm0531381', 'nm0351919']","['Steven Lisberger', 'Bonnie MacBird', 'Charles S. Haas']","['M', 'F', 'M']",1,3,False
+567,m585,tt0111503,"['nm0956022', 'nm0584770', 'nm0436687', 'nm0000116']","['Claude Zidi', 'Simon Michaël', 'Didier Kaminka', 'James Cameron']","['M', 'M', 'M', 'M']",0,4,False
+568,m586,tt0108399,"['nm0000233', 'nm0000812']","['Quentin Tarantino', 'Roger Avary']","['M', 'M']",0,2,False
+569,m587,tt0114746,"['nm0003408', 'nm0672459', 'nm0672466']","['Chris Marker', 'David Webb Peoples', 'Janet Peoples']","['M', 'M', 'F']",1,3,False
+570,m588,tt0070848,"['nm0101147', 'nm0434211']","['Douglas Bowie', 'George Kaczender']","['M', 'M']",0,2,False
+571,m589,tt0120399,['nm0725983'],['John Ridley'],['M'],0,1,False
+572,m590,tt0217869,['nm0796117'],['M. Night Shyamalan'],['M'],0,1,False
+573,m591,tt0105695,['nm0672459'],['David Webb Peoples'],['M'],0,1,False
+574,m592,tt0114814,['nm0003160'],['Christopher McQuarrie'],['M'],0,1,False
+575,m593,tt0072359,"['nm0029274', 'nm0147265', 'nm0183650', 'nm0241506', 'nm0898812']","['Paul Andréota', 'André Cayatte', 'Henri Coupon', 'Pierre Dumayet', 'Luciano Vincenzoni']","['M', 'M', 'M', 'M', 'M']",0,5,False
+576,m594,tt0052357,"['nm0178785', 'nm0853138', 'nm0092267', 'nm0092268', 'nm0027173']","['Alec Coppel', 'Samuel A. Taylor', 'Pierre Boileau', 'Thomas Narcejac', 'Maxwell Anderson']","['M', 'M', 'M', 'M', 'M']",0,5,False
+577,m595,tt0124198,['nm0000916'],['Peter Berg'],['M'],0,1,False
+578,m596,tt0055601,"['nm0017855', 'nm0000320', 'nm0701918']","['Julio Alejandro', 'Luis Buñuel', 'Benito Pérez Galdós']","['M', 'M', 'M']",0,3,False
+579,m597,tt0114857,['nm0077171'],['Eric Bernt'],['M'],0,1,False
+580,m598,tt0120885,"['nm0067248', 'nm0377088', 'nm0000519']","['Larry Beinhart', 'Hilary Henkin', 'David Mamet']","['M', 'F', 'M']",1,3,False
+581,m599,tt0094291,"['nm0007140', 'nm0000231']","['Stanley Weiser', 'Oliver Stone']","['M', 'M']",0,2,False
+582,m601,tt0161081,"['nm0163988', 'nm0449576']","['Clark Gregg', 'Sarah Kernochan']","['M', 'F']",1,2,False
+583,m603,tt0181904,['nm0927623'],['Paul Wiesepape'],['M'],0,1,False
+584,m604,tt0108558,"['nm0427176', 'nm0427732']","['Geneviève Jolliffe', 'Chris Jones']","['F', 'M']",1,2,False
+585,m606,tt0120890,['nm0002983'],['Stephen Peters'],['M'],0,1,False
+586,m607,tt0120891,"['nm0859029', 'nm0859049', 'nm0934093', 'nm0534681', 'nm0696949', 'nm0780620']","['Jim Thomas', 'John Thomas', 'S.S. Wilson', 'Brent Maddock', 'Jeffrey Price', 'Peter S. Seaman']","['M', 'M', 'M', 'M', 'M', 'M']",0,6,False
+587,m608,tt0096446,"['nm0000184', 'nm0231190']","['George Lucas', 'Bob Dolman']","['M', 'M']",0,2,False
+588,m609,tt0090329,"['nm0446015', 'nm0908807', 'nm0908620']","['William Kelley', 'Pamela Wallace', 'Earl W. Wallace']","['M', 'F', 'M']",1,3,False
+589,m610,tt0032138,"['nm0486538', 'nm0753249', 'nm0941138', 'nm0000875', 'nm0006085', 'nm0106505', 'nm0134284', 'nm0276252', 'nm0355095', 'nm0361971', 'nm0388755', 'nm0481618', 'nm0536941', 'nm0542534', 'nm0591774', 'nm0621790', 'nm0685265', 'nm0780833', 'nm0799015']","['Noel Langley', 'Florence Ryerson', 'Edgar Allan Woolf', 'L. Frank Baum', 'Arthur Freed', 'Irving Brecher', 'William H. Cannon', 'Herbert Fields', 'Jack Haley', 'E.Y. Harburg', 'Samuel Hoffenstein', 'Bert Lahr', 'John Lee Mahin', 'Herman J. Mankiewicz', 'Jack Mintz', 'Ogden Nash', 'Robert Pirosh', 'George Seaton', 'Sid Silvers']","['M', 'F', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M']",1,19,False
+590,m611,tt0143145,"['nm0701031', 'nm0905498', 'nm0270761', 'nm0001220']","['Neal Purvis', 'Robert Wade', 'Bruce Feirstein', 'Ian Fleming']","['M', 'M', 'M', 'M']",0,4,False
+591,m612,tt0409459,"['nm1733301', 'nm0371684', 'nm0874844']","['Dave Gibbons', 'David Hayter', 'Alex Tse']","['M', 'M', 'M']",0,3,False
+592,m613,tt0295701,['nm0929186'],['Rich Wilkes'],['M'],0,1,False
+593,m615,tt0072431,"['nm0000698', 'nm0000316', 'nm0791217']","['Gene Wilder', 'Mel Brooks', 'Mary Shelley']","['M', 'M', 'F']",1,3,False
