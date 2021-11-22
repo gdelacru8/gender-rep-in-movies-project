@@ -1,1 +1,6 @@
 # Gender Representation of Characters in Films and Gender Diversity of Writers
+
+The goal of this project is to investigate how gender representation of characters in movies is shaped by diversity of writers behind the scenes. The hypothesis is that movies including a female credited writer will adhere less strictly to stereotypical gender roles and portray a more diverse range of gender representations on screen. In order to test this, a classifier model is built using logistic regression, a supervised machine learning technique, to classify the gender of characters based on dialogue. The accuracy of the classifier is applied to characters from movies with at least one female writer and movies with no female writers and used as a measure of gender representation. Higher accuracy represents more strict boundaries between male and female characters, whereas lower accuracy represents less strict boundaries and more diverse gender representation. 
+
+The data used for this project is documented in /project_data. Additionally, /data_processing_code documents the construction and processing of the data needed to build and run the classifier model. The /classifier_model_code folder contains the code where the model is trained and tested and the corresponding results. 
+
