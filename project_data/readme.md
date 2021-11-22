@@ -8,3 +8,4 @@
  
 - missing_title_imdb_ids.csv contains the imdb ids for the titles that I had to manually search for because there was no match in the pudding data. 
 
+Not included in this repo because of large file size are two IMDB data sets used to identify the writers for each movie. These can be found on [IMDB's data page](https://www.imdb.com/interfaces/). This project uses the **title.crew.tsv** file and the **name.basics.tsv** file.
